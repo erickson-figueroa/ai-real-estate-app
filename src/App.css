@@ -1,0 +1,125 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center; /* Center the main content */
+    height: 100vh; /* Full height */
+    justify-content: space-between; /* Space between header, content, and input */
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    flex-direction: column; /* Align items vertically */
+  }
+  
+  .logo img {
+    width: 100px; /* Increased size for better visibility */
+    height: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-text {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .examples {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .example {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 200px;
+    transition: transform 0.3s ease-in-out; /* Add a smooth transition for appearance */
+  }
+  
+  .example img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+  }
+  
+  .example p {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .welcome-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    animation: fadeIn 1.0s ease-in-out; /* Add fade-in animation */
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .listing-row {
+    display: flex;
+    margin-bottom: 20px;
+    width: 100%; /* Make listings full width */
+  }
+  
+  .listing, .response, .map {
+    flex: 1;
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .input-container {
+    display: flex;
+    justify-content: center;
+    width: 50%; /* Set width to 50% */
+    padding: 10px;
+    box-sizing: border-box; /* Include padding in the element's total width and height */
+    background-color: #f9f9f9;
+    border-top: 1px solid #ccc;
+    position: fixed;
+    bottom: 20px; /* Adjust the bottom spacing */
+    left: 50%;
+    transform: translateX(-50%); /* Center the container horizontally */
+  }
+  
+  .input-container input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 16px;
+  }
+  
+  .input-container button {
+    padding: 10px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .input-container button:hover {
+    background-color: #0056b3;
+  }  

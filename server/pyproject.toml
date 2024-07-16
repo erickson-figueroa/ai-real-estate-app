@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "ai-real-estate-backend"
+version = "0.1.0"
+description = "Backend for AI Real Estate App"
+authors = ["Your Name <your-email@example.com>"]
+readme = "README.md"
+packages = [{include = "server"}]  # Change this to specify the actual package location
+
+[tool.poetry.dependencies]
+python = "^3.9"
+flask = "^2.0.2"
+flask-cors = "^3.0.10"
+openai = "*"
+numpy = "^1.21.2"
+scikit-learn = "^1.0.2"
+python-dotenv = "^1.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+flake8 = "^4.0.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+run = "main:app.run"
