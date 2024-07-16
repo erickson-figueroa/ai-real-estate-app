@@ -94,12 +94,12 @@ The main objective of this project is to enhance the real estate search experien
 ## Getting Started
 To get started with the project, follow these steps:
 
-1. ###  Clone the Repository
+### 1.   Clone the Repository
 
     git clone https://github.com/yourusername/ai-real-estate-app.git
     cd ai-real-estate-app
 
-2. ### Install Dependencies
+### 2.  Install Dependencies
 Install the necessary dependencies for both the frontend and backend.
 
 **Backend**
@@ -112,22 +112,22 @@ Install the necessary dependencies for both the frontend and backend.
     cd ../src
     npm install
 
-3. ### Set Up Environment Variables
+### 3.  Set Up Environment Variables
 Create a .env file in the server directory with the following content:
 
     OPENAI_API_KEY=your_openai_api_key
 
-4. ### Run the Flask Backend Server
+### 4.  Run the Flask Backend Server
 
     cd server
     poetry run flask run
 
-5. ### Start the React Frontend Application
+### 5.  Start the React Frontend Application
 
     cd ../src
     npm run dev
 
-6. Access the Application
+### 6. Access the Application
 
 Open your browser and navigate to http://localhost:3000 to access the application.
 
