@@ -113,23 +113,55 @@ Install the necessary dependencies for both the frontend and backend.
     npm install
 
 ### 3.  Set Up Environment Variables
-Create a .env file in the server directory with the following content:
+
+Create an .env file if it does not exist in the server directory with the following content:
 
     OPENAI_API_KEY=your_openai_api_key
 
-### 4.  Run the Flask Backend Server
+If the .env already exists, just add the OPENAI_API_KEY to it.
+
+### 4. Database Setup
+
+1. Download MSSQL Developer Edition: 
+
+- Download and install <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">Microsoft SQL Server Developer Edition</a>
+
+2. Install a SQL Management Tool:
+
+- Download and install <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Management Studio (SSMS)</a> or
+- Download and install <a href="https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio" target="_blank" rel="noopener noreferrer">Azure Data Studio</a> or
+- Use <a href="https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio" target="_blank" rel="noopener noreferrer">Visual Studio Code with the MSSQL Extension</a>
+ 
+ 3. Create a Database and User:
+
+- Create a new database named HousingListing.
+- Create a user with sufficient permissions to create tables and execute SQL queries.
+
+4. Download and Execute the SQL Script:
+
+- Download the SQL script to create and populate the HousingListing database from the repository, inside the DB directory.
+- Execute the script using your chosen SQL management tool.
+
+5. Configure the Connection String:
+
+-  Add your database connection details to the .env file in the server directory
+    
+        DB_CONNECTION_STRING=mssql+pyodbc://<username>:<password>@<server_address>/<database_name>?driver=ODBC+Driver+17+for+SQL+Server
+- Replace <username>, <password>, <server_address or <server_name>, and <database_name> with the appropriate values.
+
+### 6.  Run the Flask Backend Server
 
     cd server
     poetry run flask run
 
-### 5.  Start the React Frontend Application
+### 7.  Start the React Frontend Application
 
     cd ../src
     npm run dev
 
-### 6. Access the Application
+### 8. Access and Usage
 
-Open your browser and navigate to http://localhost:3000 to access the application.
+Once the application is up and running, open your web browser and navigate to http://localhost:3000. You can start using the AI Real Estate Application by entering natural language queries into the search bar. The application will process your queries and return the top property recommendations based on your criteria.
 
 ## Conclusion
 
