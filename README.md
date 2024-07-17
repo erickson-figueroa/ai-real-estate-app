@@ -144,8 +144,9 @@ If the .env already exists, just add the OPENAI_API_KEY to it.
 
     - Add your database connection details to the .env file in the server directory
     
-        DB_CONNECTION_STRING=mssql+pyodbc://<username>:<password>@<server_address>/<database_name>?driver=ODBC+Driver+17+for+SQL+Server
-    - Replace <username>, <password>, <server_address/server_name>, and <database_name> with the appropriate values.
+            DB_CONNECTION_STRING=mssql+pyodbc://<username>:<password>@<server_address>/<database_name>?driver=ODBC+Driver+17+for+SQL+Server
+    
+    - Replace: <username>, <password>, <server_address/server_name>, and <database_name> with the appropriate values.
 
 ### 6.  Run the Flask Backend Server
 Navigate to the server directory and start the Flask server.
