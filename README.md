@@ -116,7 +116,7 @@ Create an .env file if it does not exist in the server directory with the follow
 
     OPENAI_API_KEY=your_openai_api_key
 
-If the .env already exists, just add the OPENAI_API_KEY to it.
+If the .env already exists, just add your OPENAI_API_KEY to it.
 
 ### 4. Database Setup
 
