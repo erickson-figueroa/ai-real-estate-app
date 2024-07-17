@@ -12,7 +12,6 @@ The AI Real Estate Application aims to streamline the home-finding process using
 
 The main objective of this project is to enhance the real estate search experience using AI to understand and process user queries in natural language. This enables users to receive more accurate and relevant property recommendations, helping them find their ideal home more efficiently.
 
-
 ## Benefits
 
 - **Personalized Recommendations:** Users receive tailored housing options based on their specific queries.
@@ -67,7 +66,6 @@ The main objective of this project is to enhance the real estate search experien
 
     Query 2: "Show me houses with at least 4 bedrooms and 3 bathrooms in a good school district."
     Response: "This 4-bedroom, 3-bathroom house in River Heights, priced at $600,000, is located in an excellent school district."
-
 
 ## Technologies Used
 
@@ -124,44 +122,64 @@ If the .env already exists, just add the OPENAI_API_KEY to it.
 
 1. Download MSSQL Developer Edition: 
 
-- Download and install <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">Microsoft SQL Server Developer Edition</a>
+    - Download and install <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">Microsoft SQL Server Developer Edition</a>
 
 2. Install a SQL Management Tool:
 
-- Download and install <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Management Studio (SSMS)</a> or
-- Download and install <a href="https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio" target="_blank" rel="noopener noreferrer">Azure Data Studio</a> or
-- Use <a href="https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio" target="_blank" rel="noopener noreferrer">Visual Studio Code with the MSSQL Extension</a>
+    - Download and install <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Management Studio (SSMS)</a> or
+    - Download and install <a href="https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio" target="_blank" rel="noopener noreferrer">Azure Data Studio</a> or
+    - Use <a href="https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql" target="_blank" rel="noopener noreferrer">Visual Studio Code with the MSSQL Extension</a>
  
  3. Create a Database and User:
 
-- Create a new database named HousingListing.
-- Create a user with sufficient permissions to create tables and execute SQL queries.
+    - Create a new database named HousingListing.
+    - Create a user with sufficient permissions to create tables and execute SQL queries.
 
 4. Download and Execute the SQL Script:
 
-- Download the SQL script to create and populate the HousingListing database from the repository, inside the DB directory.
-- Execute the script using your chosen SQL management tool.
+    - Download the SQL script to create and populate the HousingListing database from the repository, inside the DB directory.
+    - Execute the script using your chosen SQL management tool.
 
 5. Configure the Connection String:
 
--  Add your database connection details to the .env file in the server directory
+    - Add your database connection details to the .env file in the server directory
     
         DB_CONNECTION_STRING=mssql+pyodbc://<username>:<password>@<server_address>/<database_name>?driver=ODBC+Driver+17+for+SQL+Server
-- Replace <username>, <password>, <server_address or <server_name>, and <database_name> with the appropriate values.
+    - Replace <username>, <password>, <server_address or <server_name>, and <database_name> with the appropriate values.
 
 ### 6.  Run the Flask Backend Server
+Navigate to the server directory and start the Flask server.
 
     cd server
     poetry run flask run
 
 ### 7.  Start the React Frontend Application
+Navigate to the src directory and start the React development server.
 
     cd ../src
     npm run dev
 
-### 8. Access and Usage
+### 8. Interact with the Application
+
+Open your browser and navigate to http://localhost:3000 to interact with the application.
+
+## Access and Usage
 
 Once the application is up and running, open your web browser and navigate to http://localhost:3000. You can start using the AI Real Estate Application by entering natural language queries into the search bar. The application will process your queries and return the top property recommendations based on your criteria.
+
+## Future Implementation
+
+Currently, the project is in development and runs only locally. However, you can deploy it in the cloud by following the previous steps with some variations. Ensure you have enough knowledge to work with the cloud provider you choose. This will allow for better scalability and accessibility of the application.
+
+## Contributing
+ 
+ At the moment code contributions are not enabled.
+
+## License
+
+This project is licensed under the MIT License.
+
+    Feel free to customize any sections further to better fit your specific project details and requirements.
 
 ## Conclusion
 
