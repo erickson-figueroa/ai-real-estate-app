@@ -1,4 +1,4 @@
-# AI Real Estate Application
+# AI Real Estate Application (BETA)
 
 The AI Real Estate Application leverages state-of-the-art artificial intelligence to streamline the home-finding process. By providing personalized and accurate recommendations, the application helps users find their ideal home based on specific needs and preferences.
 
@@ -145,7 +145,7 @@ If the .env already exists, just add the OPENAI_API_KEY to it.
     - Add your database connection details to the .env file in the server directory
     
         DB_CONNECTION_STRING=mssql+pyodbc://<username>:<password>@<server_address>/<database_name>?driver=ODBC+Driver+17+for+SQL+Server
-    - Replace <username>, <password>, <server_address or <server_name>, and <database_name> with the appropriate values.
+    - Replace <username>, <password>, <server_address/server_name>, and <database_name> with the appropriate values.
 
 ### 6.  Run the Flask Backend Server
 Navigate to the server directory and start the Flask server.
@@ -165,7 +165,7 @@ Open your browser and navigate to http://localhost:3000 to interact with the app
 
 ## Access and Usage
 
-Once the application is up and running, open your web browser and navigate to http://localhost:3000. You can start using the AI Real Estate Application by entering natural language queries into the search bar. The application will process your queries and return the top property recommendations based on your criteria.
+Once the application is up and running, you can start using the AI Real Estate Application by entering natural language queries into the search bar. The application will process your queries and return the top property recommendations based on your criteria.
 
 ## Future Implementation
 
