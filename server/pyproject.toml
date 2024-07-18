@@ -2,7 +2,7 @@
 name = "ai-real-estate-backend"
 version = "0.1.0"
 description = "Backend for AI Real Estate App"
-authors = ["Your Name <your-email@example.com>"]
+authors = ["Erickson Figueroa <indetrd@gmail.com>"]
 readme = "README.md"
 packages = [{include = "server"}]  # Change this to specify the actual package location
 
@@ -14,7 +14,7 @@ openai = "*"
 numpy = "^1.21.2"
 scikit-learn = "^1.0.2"
 python-dotenv = "^1.0.1"
-pyodbc = "^4.0.32"
+pyodbc = "^5.1.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"

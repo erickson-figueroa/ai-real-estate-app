@@ -77,7 +77,7 @@ The main objective of this project is to enhance the real estate search experien
 
 - Backend:
     - Flask
-    - OpenAI GPT-3.5-turbo LLM model
+    - GPT-3.5-turbo LLM model
     - Python
     - Flask-CORS
     - Poetry for dependency management
