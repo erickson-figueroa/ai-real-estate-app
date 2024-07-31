@@ -86,8 +86,7 @@ The main objective of this project is to enhance the real estate search experien
     - Local housing listing database
 
 - Others:
-    - Google Maps API for displaying property locations
-
+    - Open Street Map with leafletjs javascript library to show the location of the properties
 
 ## Getting Started
 To get started with the project, follow these steps:
