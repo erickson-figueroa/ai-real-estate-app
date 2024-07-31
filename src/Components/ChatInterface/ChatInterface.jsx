@@ -1,22 +1,18 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import ListingsResponse from '../ListingResponse/ListingResponse';
-import ListingResponseMap from '../ListingResponseMap/ListingResponseMap';
+import ListingResponse from '../ListingResponse/ListingResponse';
 import './ChatInterface.css';
 
 function ChatInterface() {
   const [userInput, setUserInput] = useState("");
-  const [listings, setListings] = useState([]);
-  const [responses, setResponses] = useState([]);
+  const [listingsWithResponses, setListingsWithResponses] = useState([]);
   const [showResults, setShowResults] = useState(false);
 
   const handleSend = async (input) => {
     if (input.trim()) {
       try {
         const response = await axios.post('/api/query', { query: input });
-        const { listings, responses } = response.data;
-        setListings(listings);
-        setResponses(responses);
+        setListingsWithResponses(response.data);
         setShowResults(true);
         setUserInput("");
       } catch (error) {
@@ -40,7 +36,7 @@ function ChatInterface() {
               <img src="https://via.placeholder.com/50" alt="Logo" />
             </div>
             <div className="welcome-text">
-              Find the perfect home for you and yours with the help of AI
+              Find the perfect home with the help of AI
             </div>
           </div>
           <div className="examples">
@@ -60,10 +56,7 @@ function ChatInterface() {
         </div>
       )}
       {showResults && (
-        <>
-          <ListingsResponse listings={listings} responses={responses} />
-          <ListingResponseMap listings={listings} />
-        </>
+        <ListingResponse listingsWithResponses={listingsWithResponses} />
       )}
       <div className="input-container">
         <input

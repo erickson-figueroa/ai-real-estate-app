@@ -31,8 +31,8 @@ def process_query():
             "type": "Residential, Single Family Detached",
             "realtor": "Interlake Real Estate",
             "image": "https://via.placeholder.com/150",
-            "latitude": 49.8951,
-            "longitude": -97.1384
+            "latitude": 49.88896,
+            "longitude": -97.13425
         },
         {
             "id": 2,
@@ -44,8 +44,8 @@ def process_query():
             "type": "Residential, Condominium",
             "realtor": "Fort Garry Real Estate",
             "image": "https://via.placeholder.com/150",
-            "latitude": 49.8951,
-            "longitude": -97.1384
+            "latitude": 49.87823,
+            "longitude": -97.15018
         },
         {
             "id": 3,
@@ -57,8 +57,8 @@ def process_query():
             "type": "Residential, Single Family Detached",
             "realtor": "St. James Real Estate",
             "image": "https://via.placeholder.com/150",
-            "latitude": 49.8951,
-            "longitude": -97.1384
+            "latitude": 49.85435,
+            "longitude": -97.18130
         },
     ]
 
@@ -85,14 +85,32 @@ def process_query():
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=150
+            max_tokens=500,
+            temperature=0.7
         )
         ai_response = response.choices[0].message.content.strip()
     except Exception as e:
         print(f"OpenAI API error: {e}")
         ai_response = "Sorry, there was an error processing your query."
 
-    return jsonify({'listings': mock_listings, 'responses': [ai_response]})
+    # Split the response by listing number
+    responses = ai_response.split("Listing")[1:]
+    response_dict = {}
+    for resp in responses:
+        number = resp.split(":")[0].strip()
+        content = resp.split(":", 1)[1].strip()
+        response_dict[number] = content
+
+    final_responses = []
+    for i, listing in enumerate(mock_listings):
+        listing_number = str(i + 1)
+        response_text = response_dict.get(listing_number, "No response available")
+        final_responses.append({
+            "listing": listing,
+            "response": response_text
+        })
+
+    return jsonify(final_responses)
 
 if __name__ == '__main__':
     app.run(debug=True)

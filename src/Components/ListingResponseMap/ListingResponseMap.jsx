@@ -1,26 +1,31 @@
-import React from 'react';
-import './ListingResponseMap.css';
+import React, { useEffect } from 'react';
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
 
-const ListingResponseMap = ({ listings }) => {
-  return (
-    <div className="listing-map">
-      {listings.map((listing) => (
-        <div key={listing.id} className="map-container">
-          <h3>{listing.address}</h3>
-          <div>
-            <iframe
-              width="600"
-              height="450"
-              style={{ border: 0 }}
-              loading="lazy"
-              allowFullScreen
-              src={`https://www.google.com/maps/embed/v1/place?key=YOUR_GOOGLE_MAPS_API_KEY&q=${listing.latitude},${listing.longitude}`}
-            ></iframe>
-          </div>
-        </div>
-      ))}
-    </div>
-  );
+const ListingResponseMap = ({ latitude, longitude, mapId, address, neighborhood, price }) => {
+  useEffect(() => {
+    const map = L.map(mapId).setView([latitude, longitude], 13);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    const marker = L.marker([latitude, longitude]).addTo(map);
+
+    marker.bindPopup(`
+      <div>
+        <strong>${address}</strong><br />
+        ${neighborhood}<br />
+        Price: ${price}
+      </div>
+    `);
+
+    return () => {
+      map.remove();
+    };
+  }, [latitude, longitude, mapId, address, neighborhood, price]);
+
+  return <div id={mapId} style={{ height: '400px', width: '100%' }} />;
 };
 
 export default ListingResponseMap;
