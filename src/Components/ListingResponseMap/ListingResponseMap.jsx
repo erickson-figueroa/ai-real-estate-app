@@ -11,31 +11,28 @@ const ListingResponseMap = ({ latitude, longitude, mapId, address, neighborhood,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-
     const customIcon = L.icon({
       iconUrl: locationIcon,
       iconSize: [50, 50], // size of the icon
-      iconAnchor: [22, 94], // point of the icon which will correspond to marker's location
-      popupAnchor: [-3, -76] // point from which the popup should open relative to the iconAnchor
+      iconAnchor: [25, 50], // point of the icon which will correspond to marker's location
+      popupAnchor: [0, -50] // point from which the popup should open relative to the iconAnchor
     });
 
     const marker = L.marker([latitude, longitude], { icon: customIcon }).addTo(map);
-    marker.bindPopup(`<b>${address}</b><br>${neighborhood}<br>Price: ${price}`).openPopup();
-
     marker.bindPopup(`
       <div>
         <strong>${address}</strong><br />
         ${neighborhood}<br />
         Price: ${price}
       </div>
-    `);
+    `).openPopup();
 
     return () => {
       map.remove();
     };
   }, [latitude, longitude, mapId, address, neighborhood, price]);
 
-  return <div id={mapId} style={{ height: '400px', width: '100%' }} />;
+  return <div id={mapId} style={{ height: '100%', width: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center' }} />;
 };
 
 export default ListingResponseMap;

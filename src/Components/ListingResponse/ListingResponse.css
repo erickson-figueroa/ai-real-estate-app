@@ -2,36 +2,6 @@
   padding-bottom: 60px; /* Make room for the fixed input box */
 }
 
-.input-container {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  padding: 10px;
-  background-color: white;
-  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
-}
-
-.input-box {
-  flex-grow: 1;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
-}
-
-.send-button {
-  margin-left: 10px;
-  padding: 10px 20px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
 .send-button:hover {
   background-color: #0056b3;
 }
@@ -62,4 +32,92 @@
 .col-md-4, .col-md-8 {
   padding-right: 0;
   padding-left: 0;
+}
+
+/* Center the price-category div and place it slightly lower */
+.price-category {
+  text-align: center;
+  margin-top: 40px; 
+}
+
+.price-category h2 {
+  display: inline-block;
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+
+.price-category .badge {
+  font-size: 1rem; 
+}
+hr {
+    margin-top: 1rem; 
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(0 0 0 / 55%);
+}
+.view-more-detail-btn {
+ margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.view-more-detail-btn:hover {
+  background-color:#007bff;
+  color: white;
+}
+
+.check-availability-btn { 
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.check-availability-btn:hover{
+  background-color:#007bff;
+  color: white;
+}
+
+.modal-body textarea {
+    color: black;
+    height: fit-content;
+    max-height: 158px;
+    min-height: 80px;
+    line-height: -2px;
+    overflow: auto;
+    padding: -4px;
+    text-overflow: ellipsis;
+    white-space: pre-wrap;
+    width: 100%;
+    resize: none;
+}
+
+.modal-body button {
+  background-color: #0056b3;
+
+}
+.modal-body button:hover {
+  background-color: #007bff;
+}
+
+.modal-footer button {
+  width: 100%;
+}
+
+/* Custom mt-5 */
+.custom-mt-5 {
+  margin-top: 4rem !important;
+}
+
+.card-equal-height {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }

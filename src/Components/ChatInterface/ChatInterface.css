@@ -5,6 +5,13 @@
     border-right: 1px solid #ccc;
   }
   
+.navbar {
+  background-color: #f9f9f6 !important;
+  border-bottom: 1px solid;
+  border-color: #ebeae6 !important;
+}
+
+
   .messages {
     flex: 1;
     overflow-y: auto;
@@ -25,28 +32,73 @@
   }
   
   .input-container {
+    /*position: fixed;*/
+    bottom: 0;
     display: flex;
+    align-items: center;
+    width: 100%;
     padding: 10px;
+    box-sizing: border-box; /* Include padding in the element's total width and height */
+    background-color:#eaeaeba6;
     border-top: 1px solid #ccc;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    left: 50%;
+    transform: translateX(-50%); /* Center the container horizontally */
+     z-index: 1000;
   }
-  
+
   .input-container input {
     flex: 1;
     padding: 10px;
     border: 1px solid #ccc;
-    border-radius: 5px;
-    margin-right: 10px;
+    border-radius: 20px;
+    font-size: 16px;
   }
   
   .input-container button {
     padding: 10px;
+    margin-left: 10px;
     border: none;
-    border-radius: 5px;
-    background-color: #007bff;
+    border-radius: 20px;
+    background-color: #0056b3;
     color: white;
     cursor: pointer;
   }
   
   .input-container button:hover {
-    background-color: #0056b3;
+    background-color: #007bff;
   }  
+
+.input-box {
+  flex-grow: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Fix for flickering carousel */                                                      
+.carousel-inner .carousel-item {
+  opacity: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: block;
+  position: absolute;
+}
+.carousel-inner .carousel-item:first-of-type {
+  position: relative;
+}
+.carousel-inner .active {
+  opacity: 1;
+}
+/* End of fix */
+
+.custom-bg-dark {
+  background-color: rgb(0 5 10 / 93%)
+}
+
+.custom-text-bg-primary {
+  background-color: #0056b3;
+}
