@@ -205,16 +205,6 @@ const ListingResponse = ({ listingsWithResponses = [] }) => {
                 <div className="tab-content" id="pills-tabContent">
                   <div className="tab-pane fade show active" id="pills-listing" role="tabpanel" aria-labelledby="pills-listing-tab">
                     <div className="row">
-                      <div className="col-md-8">
-                        <ListingResponseMap
-                          latitude={selectedListing.latitude}
-                          longitude={selectedListing.longitude}
-                          mapId={`map-modal-${selectedListing.id}`}
-                          address={selectedListing.address}
-                          neighborhood={selectedListing.neighborhood}
-                          price={formatPrice(selectedListing.price)}
-                        />
-                      </div>
                       <div className="col-md-4">
                         <h5 className="card-title">Listing Details</h5>
                         <p className="card-text"><strong>Address:</strong> {selectedListing.address}</p>
@@ -225,6 +215,55 @@ const ListingResponse = ({ listingsWithResponses = [] }) => {
                         <p className="card-text"><strong>Type:</strong> {selectedListing.type}</p>
                         <p className="card-text"><strong>Realtor:</strong> {selectedListing.realtor}</p>
                       </div>
+                      <div className="col-md-4">
+                      <p className="card-text"><strong>Additional info 1:</strong> {}</p>
+                      <p className="card-text"><strong>Additional info 2:</strong> {}</p>
+                      <p className="card-text"><strong>Additional info 3:</strong> {}</p>
+                      <p className="card-text"><strong>Additional info 4:</strong> {}</p>
+                      <p className="card-text"><strong>Additional info 5:</strong> {}</p>
+                      <p className="card-text"><strong>Additional info 6:</strong> {}</p>
+                      <p className="card-text"><strong>Additional info 7:</strong> {}</p>
+                      <p className="card-text"><strong>Additional info 8:</strong> {}</p>
+                      </div>
+                      <div className="col-md-4">
+                        <ListingResponseMap
+                          latitude={selectedListing.latitude}
+                          longitude={selectedListing.longitude}
+                          mapId={`map-modal-${selectedListing.id}`}
+                          address={selectedListing.address}
+                          neighborhood={selectedListing.neighborhood}
+                          price={formatPrice(selectedListing.price)}
+                        /> 
+                        button with point of interest here!
+                      </div>
+                    </div>
+                    <div className="row">
+                    <div className="col-md-4">
+                    <p className="card-text"><strong>[Icon ] Features </strong> {}</p>
+                    <p className="card-text">Air Conditioning-Central{}</p>
+                    <p className="card-text">Bar wet{}</p>
+                    <p className="card-text">Closet Organizers{}</p>
+                    <p className="card-text">Cook Top{}</p>
+                    <p className="card-text">Deck{}</p>
+                    <p className="card-text">High-Efficiency Furnace{}</p>
+                    <p className="card-text">Hot Tub{}</p>
+                    <p className="card-text">Laundry - Second Floor{}</p>
+                    <p className="card-text">Laundry - Main Floor{}</p>
+                    <p className="card-text">Patio{}</p>
+                    <p className="card-text">Pool-Indoor{}</p>
+                    </div>
+                    <div className="col-md-4">
+                    <p className="card-text"><strong>[Icon ] Blinds </strong> {}</p>
+                    <p className="card-text"><strong>[Icon ] Bar Fridge </strong> {}</p>
+                    <p className="card-text">Dryers - Two{}</p>
+                    <p className="card-text">Dishwasher{}</p>
+                    <p className="card-text">Garage door opener{}</p>
+                    <p className="card-text">Garage door opener remote(s){}</p>
+                    <p className="card-text">Microwave{}</p>
+                    <p className="card-text">Stove{}</p>
+                    <p className="card-text">Window Coverings{}</p>
+                    <p className="card-text">Washers - Two{}</p>
+                    </div>
                     </div>
                   </div>
                   <div className="tab-pane fade" id="pills-census" role="tabpanel" aria-labelledby="pills-census-tab">
