@@ -1,11 +1,18 @@
 import React, { useEffect } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import 'leaflet-fullscreen/dist/leaflet.fullscreen.css';
+import 'leaflet-fullscreen';
 import locationIcon from '../../assets/location.png';
 
 const ListingResponseMap = ({ latitude, longitude, mapId, address, neighborhood, price }) => {
   useEffect(() => {
-    const map = L.map(mapId).setView([latitude, longitude], 13);
+    const map = L.map(mapId, {
+      fullscreenControl: true, // Add fullscreen control to the map
+      fullscreenControlOptions: {
+        position: 'topleft' // Position the fullscreen button
+      }
+    }).setView([latitude, longitude], 13);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
