@@ -121,3 +121,7 @@ hr {
   display: flex;
   flex-direction: column;
 }
+
+map {
+  height: 90% !important;
+}

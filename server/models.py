@@ -1,17 +1,19 @@
 import numpy as np
 from sklearn.cluster import KMeans
 
-def get_price_clusters(data, average_price):
+def get_price_clusters(data, square_footage, average_price):
+    # Combine price and square footage into a 2D array
+    features = np.array(list(zip(data, square_footage)))
+    
+    # Apply KMeans clustering on both price and square footage
     kmeans = KMeans(n_clusters=3, random_state=0)
-    data_reshaped = np.array(data).reshape(-1, 1)
-    kmeans.fit(data_reshaped)
+    kmeans.fit(features)
     labels = kmeans.labels_
-    centroids = kmeans.cluster_centers_.flatten()
+    centroids = kmeans.cluster_centers_
 
-    # Sort clusters by centroid values
-    sorted_indices = np.argsort(centroids)
+    # Sort clusters by price centroid
+    sorted_indices = np.argsort(centroids[:, 0])  # Sort based on price
     sorted_labels = np.zeros_like(labels)
-
     for new_label, old_label in enumerate(sorted_indices):
         sorted_labels[labels == old_label] = new_label
 

@@ -11,6 +11,13 @@
     pkgs.python310Packages.pip
     pkgs.poetry
   ];
+
+services.postgres = {
+enable = true;
+package = pkgs.postgresql;
+
+};
+
   # Sets environment variables in the workspace
   env = {};
   idx = {
