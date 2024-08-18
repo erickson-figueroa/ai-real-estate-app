@@ -2,28 +2,28 @@ import requests
 from bs4 import BeautifulSoup
 
 def get_average_price():
-    url = "https://stats.crea.ca/board/mrea"
+    url = "https://wowa.ca/winnipeg-housing-market"  # Updated URL
     response = requests.get(url)
     if response.status_code != 200:
         print(f"Failed to retrieve data: {response.status_code}")
         return None
 
     soup = BeautifulSoup(response.content, 'html.parser')
-    text = soup.find(text=lambda t: "The average price of homes sold in" in t)
+    # Updated logic to find the new sentence structure
+    text = soup.find(text=lambda t: "The average sale price in Winnipeg for" in t)
 
     if not text:
         print("Failed to find the average price text.")
         return None
 
-    # Extract the price from the text
-    price_str = text.split("The average price of homes sold in")[1].split("was $")[1].split(",")[0]
-    full_price_str = text.split("The average price of homes sold in")[1].split("was $")[1].split(" ")[0].replace(",", "")
-    
+    # Extract the price from the text based on Winnipeg Housing Market 
     try:
-        average_price = int(full_price_str.replace(",", ""))
+        # Splitting and cleaning up to extract the price
+        price_str = text.split("was $")[1].split(" ")[0].replace(",", "")
+        average_price = int(price_str)
         return average_price
-    except ValueError:
-        print("Failed to convert the extracted price to an integer.")
+    except (IndexError, ValueError) as e:
+        print(f"Failed to extract or convert the price: {e}")
         return None
 
 if __name__ == "__main__":
