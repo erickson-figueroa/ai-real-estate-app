@@ -1,0 +1,544 @@
+id,address,neighborhood,price,bedrooms,bathrooms,square_footage,type,realtor,latitude,longitude
+202400005,"53 Sansome Ave, Winnipeg, R3K 0N7",Westwood,399900,4,2,1100,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.87526,-97.29892
+202400015,"797 Niagara St, Winnipeg, R3N 0W2",River Heights South,479900,3,2,1622,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.85364,-97.1869
+202401550,"226 4th Ave, Carman, R0G 0J0",R39,679900,4,4,2200,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.50248,-98.01684
+202406249,"60 Cheema Dr, Winnipeg, R2R 3A9",Castlebury Meadows,684900,4,3,1943,"Residential, Single Family Detached",RE/MAX One Group,49.93809,-97.20653
+202409896,"146 Tychonick Bay, Winnipeg, R3W 0C2",Kildonan Meadows,499900,4,3,1202,"Residential, Single Family Detached",RE/MAX Performance Realty,49.91397,-97.03189
+202410619,"235 Tu-pelo Ave, Winnipeg, R2K 3T7",Valley Gardens,280000,3,2,860,"Residential, Single Family Attached",Real Broker,49.92351,-97.06592
+202411340,"704 Pepperloaf Cres, Winnipeg, R3R 1G1",Charleswood,524900,6,3,1698,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.85154,-97.29026
+202412086,"948 Riviera Cres, Winnipeg, R3T 2J3",East Fort Garry,299900,3,1,1008,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.83237,-97.14857
+202412568,"128 Cowley St, Winnipeg, R2V 5K1",West St Paul,714900,4,3,2374,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.97477,-97.09783
+202413148,"469 Gertrude Ave, Winnipeg, R3L 0M7",Osborne Village,449900,5,2,1782,"Residential, Single Family Detached",Century 21 Carrie Realty,49.87586,-97.14419
+202413447,"916 Lagimodiere Blvd, Winnipeg, R2J 0V4",St Boniface,449900,4,3,1148,"Residential, Duplex",RE/MAX Associates,49.88363,-97.07297
+202413482,"82 Rosebrook Trl, Steinbach, R5G 2Y1",R16,294900,3,2,1178,"Residential, Townhouse",Century 21 Gold Key Realty Ltd.,49.519,-96.70504
+202414105,"451 Morley Ave, Winnipeg, R3L 0Y8",Lord Roberts,279900,2,1,720,"Residential, Single Family Detached",RE/MAX Performance Realty,49.86271,-97.1418
+202415167,"986 Crescent Dr, Winnipeg, R3T 1X7",Fort Garry,593000,3,2,1235,"Residential, Single Family Detached",RE/MAX PROFESSIONALS,49.83225,-97.15028
+202415579,"1310 - 90 Plaza Dr, Winnipeg, R3T 5K8",Fort Garry,199900,2,1,900,"Condominium, Apartment",eXp Realty,49.82384,-97.14865
+202416085,"351 Lake Ave, Winnipeg Beach, R0C 3G0",Winnipeg Beach,304900,3,1,940,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,50.49694,-96.97811
+202416094,"16 Sage Wood Ave, Winnipeg, R2G 2W9",Oakwood Estates,580000,4,3,1144,"Residential, Single Family Detached",Real Broker,49.93682,-97.04997
+202416794,"203 Park Blvd, Winnipeg, R3P 0G6",Tuxedo,2649000,4,4,3062,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.86986,-97.22007
+202416944,"355 Purvis Blvd, Selkirk, R1A 4N5",R14,474900,4,3,1319,"Residential, Single Family Detached",Century 21 Advanced Realty,50.15087,-96.8957
+202417133,"66 Rillwillow Pl, Winnipeg, R2N 1J2",River Park South,299900,3,2,1080,"Residential, Single Family Attached",Century 21 Carrie Realty,49.82161,-97.10212
+202417572,"2 Castle Ridge Dr, Winnipeg, R3Y 1W1",Linden Ridge,844900,4,3,1697,"Residential, Single Family Detached",Maximum Realty,49.82148,-97.19245
+202417587,"25 Ducharme St, Alonsa, R0L 0K0",Lake Manitoba Narrows,345000,3,2,1072,"Residential, Single Family Detached",I.H.S Realty Ltd.,51.3057,-99.14609
+202417853,"143 Ashdale Ave, Winnipeg, R2H 1R1",Norwood Flats,424900,3,2,1327,"Residential, Single Family Detached",Rockport Brokers and Associates Inc.,49.87643,-97.13275
+202417856,"27 Carmarthen Blvd, Winnipeg, R3P 0B3",Tuxedo,1099900,4,3,2820,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.86342,-97.2133
+202417860,"735 Harstone Rd, Winnipeg, R3R 1E1",Charleswood,424900,2,2,964,"Residential, Single Family Detached",Ethos Realty Inc.,49.84996,-97.28672
+202417909,"494 Kildarroch St, Winnipeg, R2X 2B8",Sinclair Park,259800,4,1,735,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.93253,-97.15708
+202417912,"303 - 132 James Ave, Winnipeg, R3B 0N8",Exchange District,274900,2,1,886,"Condominium, Apartment",Royal LePage Prime Real Estate,49.89909,-97.13486
+202418045,"105 Bill Briercliffe Dr, Winnipeg, R3W 0S5",Devonshire Park,649900,4,3,2089,"Residential, Single Family Detached",Real Broker,49.91125,-97.04006
+202418239,"11 Tranquility Cove, Winnipeg, R2G 2A8",North Kildonan,349900,3,2,840,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.9483,-97.07355
+202418240,"5 Longview Lane, Oak Bluff, R4G 0E5",Oak Bluff West,999000,3,2,2027,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.78149,-97.31203
+202418256,"350 Borebank St, Winnipeg, R3N 1E4",River Heights North,444900,3,2,1050,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.86864,-97.1921
+202418306,"314 Melrose Ave, Winnipeg, R2C 1N8",West Transcona,299900,3,3,1091,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.89429,-96.99689
+202418368,"341 Salter St, Winnipeg, R2W 4L5",North End,299900,7,2,2300,"Residential, Duplex",Royal LePage Top Producers Real Estate,49.92086,-97.13655
+202418405,"294 Abbotsfield Dr, Winnipeg, R2N 4H3",River Park South,449900,3,2,1487,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.81473,-97.07942
+202418406,"53 Louise St, Powerview, R0E 1P0",R28,199900,5,3,1266,"Residential, Single Family Detached",Century 21 Sun Country Realty,50.56179,-96.2025
+202418480,"302 - 1143 St Anne's Rd, Winnipeg, R2N 0G6",River Park South,364900,2,2,1103,"Condominium, Apartment",Maximum Realty,49.81478,-97.07711
+202418534,"42020 Traverse Bay Rd, Traverse Bay, R0E 2A0",Traverse Bay,299000,4,1,1200,"Residential, Single Family Detached",Coldwell Banker Park Avenue Real Estate,50.66576,-96.48172
+202418598,"50 Healy Cres, Winnipeg, R2N 2S6",River Park South,449900,3,3,1684,"Residential, Single Family Detached",RE/MAX PROFESSIONALS,49.80338,-97.10582
+202418601,"98 Cedargrove Cres, Winnipeg, R2C 4Y5",Mission Gardens,299900,3,1,895,"Residential, Single Family Detached",RE/MAX PROFESSIONALS,49.8882,-97.03312
+202418612,"1016 Dugas St, Winnipeg, R2J 1A2",Windsor Park,289900,4,2,920,"Residential, Single Family Attached",Royal LePage Dynamic Real Estate,49.87184,-97.0742
+202418622,"1098 Alfred St, Winnipeg, R2X 0V6",North End,229900,2,1,804,"Residential, Single Family Detached",Real Broker,49.92713,-97.16709
+202418628,"42 Essar Ave, Winnipeg, R2G 0S5",Fraser's Grove,379900,2,1,715,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.9469,-97.0952
+202418636,"29 Barnes Ave, West St Paul, R2V 5G6",West St Paul,472900,3,0,1395,"Residential, Single Family Attached",Royal LePage Top Producers Real Estate,49.97323,-97.08795
+202418658,"180 Dockside Way, Winnipeg, R3X 2E8",Island Lakes,450000,4,3,1220,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.8312,-97.06126
+202418705,"646 Pipeline Rd, Winnipeg, R2P 2T7",Amber Trails,1690000,3,3,1392,"Residential, Single Family Detached",RE/MAX Associates,49.97046,-97.16104
+202418715,"798 Sturgeon Rd, Winnipeg, R2Y 0K9",Grace Hospital,587700,5,4,1820,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.88654,-97.27877
+202418747,"7 Mcgregor Ave, Dunnottar, R0C 2B0",Dunnottar,349900,3,1,1300,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,50.45903,-96.95413
+202418750,"128 Shorehill Dr, Winnipeg, R3X 1Y6",Royalwood,579900,2,3,1539,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.83648,-97.07848
+202418753,"817 Home St, Winnipeg, R3E 2C7",West End,250000,3,1,1212,"Residential, Single Family Detached",eXp Realty,49.90105,-97.16704
+202418772,"10 - 70 Shady Shores Dr, Winnipeg, R2J 4L8",Waterside Estates,279900,2,2,926,"Condominium, Apartment",Real Broker,49.88443,-97.03063
+202418779,"906 - 1355 Lee Blvd, Winnipeg, R3T 4X3",Fairfield Park,399900,3,3,1291,"Condominium, Townhouse",Real Broker,49.79568,-97.17146
+202418781,"1 Thorlakson Pl, Headingley, R4H 1A7",Headingley South,2299900,5,4,2486,"Residential, Single Family Detached",Real Broker,49.85772,-97.36468
+202418818,"196 Niagara St, Winnipeg, R3N 0V2",River Heights,724900,4,4,1816,"Residential, Single Family Detached",Real Broker,49.87281,-97.18517
+202418835,"11 Ellington St, Winnipeg, R2R 0T6",Tyndall Park,369900,3,2,960,"Residential, Single Family Detached",RE/MAX One Group,49.93177,-97.20104
+202418837,"301 Strathnaver Ave, Selkirk, R1A 0H5",R14,169900,2,1,995,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,50.13526,-96.88446
+202418893,"4 Barb Culbertson Cove, Winnipeg, R2C 5P1",Canterbury Park,510000,3,3,1655,"Residential, Single Family Detached",Century 21 Carrie Realty,49.89594,-96.97743
+202418911,"645 Cordova St, Winnipeg, R3N 1A9",River Heights South,599900,5,3,1450,"Residential, Single Family Detached",RE/MAX One Group,49.85949,-97.19021
+202418913,"134 Evergreen St, Beausejour, R0E 0C0",R03,298900,3,2,1486,"Residential, Single Family Attached",Coldwell Banker Park Avenue Real Estate,50.05423,-96.50638
+202418938,"4 - 52 Fawcett Ave, Winnipeg, R3G 0Y6",Wolseley,109900,1,1,680,"Condominium, Apartment",RE/MAX One Group,49.88434,-97.16304
+202418948,"341 Windflower Rd, Winnipeg, R3Y 0X6",Bridgwater Trails,499900,3,4,1489,"Residential, Single Family Detached",RE/MAX One Group,49.77866,-97.21199
+202418956,"104 - 260 Fairhaven Rd, Winnipeg, R3P 1C9",Linden Woods,379900,2,1,1194,"Condominium, Apartment",Royal LePage Dynamic Real Estate,49.82495,-97.19716
+202418962,"5797 9 Hwy, St Andrews, R1A 2R1",St Andrews on the Red,649900,4,4,3612,"Residential, Single Family Detached",Greg Michie Realty Group,50.04836,-97.01611
+202418968,"75 Fred Jeschke Dr, Lac Du Bonnet RM, R0E 1A0",Granite Hills,479900,5,3,1568,"Residential, Single Family Detached",eXp Realty,50.37474,-95.85095
+202418969,"375 Berry St, Winnipeg, R3J 1N4",Deer Lodge,498900,5,3,1236,"Residential, Duplex",RE/MAX One Group,49.88688,-97.21066
+202418991,"297 Sackville St, Winnipeg, R3J 1Z7",St James,259900,2,1,758,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.8825,-97.22319
+202418999,"125 Pandora Ave, Winnipeg, R2C 0A1",East Transcona,199900,2,1,880,"Residential, Single Family Detached",Goodfellow Realty Ltd.,49.89336,-97.00077
+202419018,"425 Sutherland Ave, Selkirk, R1A 0M5",R14,299900,3,2,1082,"Residential, Single Family Detached",Century 21 Advanced Realty,50.14033,-96.88491
+202419021,"15 - 325 Mercy St, Selkirk, R1A 2E4",R14,199900,2,1,910,"Condominium, Townhouse",Century 21 Advanced Realty,50.14442,-96.88606
+202419030,"450 Tyson Trl, Winnipeg, R3W 0P3",Devonshire Park,599900,4,3,1814,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.90243,-97.03638
+202419036,"309 - 99 Gerard St, Winnipeg, R3L 2G2",Osborne Village,314900,2,1,1036,"Condominium, Apartment",Royal LePage Prime Real Estate,49.87841,-97.14721
+202419040,"306 Duchek Dr, Ritchot Rm, R5A 0C6",Grande Pointe,998000,3,3,2492,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.68233,-97.11221
+202419041,"707 Mulvey Ave, Winnipeg, R3M 1G3",Crescentwood,419900,4,2,1408,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.86817,-97.15254
+202419045,"8 Keswick Ave, Winnipeg, R3P 0R9",Tuxedo,599800,3,3,1268,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.85849,-97.21291
+202419047,"388 Sharp Blvd, Winnipeg, R3J 2K8",Deer Lodge,339900,4,2,1268,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.88375,-97.23776
+202419050,"127 Laval Dr, Winnipeg, R3T 2X9",Fort Richmond,379900,5,2,1040,"Residential, Single Family Detached",Real Broker,49.79803,-97.1443
+202419051,"561 Fuller Ave, Manitou, R0G 1G0",RM of Pembina,299900,4,3,1560,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.23937,-98.53375
+202419054,"107 Whooping Crane Dr, Winnipeg, R2V 5J2",Highland Pointe,509900,3,3,1486,"Residential, Single Family Detached",Century 21 Carrie Realty,49.96723,-97.11747
+202419070,"67 Northcliffe Dr, Winnipeg, R2C 4K4",Canterbury Park,319900,3,2,1263,"Residential, Single Family Detached",RE/MAX Performance Realty,49.90691,-96.97095
+202419075,"80 Sun Lee Rd, Lac Du Bonnet RM, R0E 1A0",Sun Lee,849000,3,2,1572,"Residential, Single Family Detached",Wendigo Realty,50.3471,-95.81088
+202419083,"16 Mooney Ave, Steinbach, R5G 0W4",Clearspring Greens,449900,5,3,1605,"Residential, Single Family Detached",Century 21 Gold Key Realty Ltd.,49.54253,-96.66712
+202419105,"42 Gullane St, Niverville, R0A 0A1",The Highlands,449900,2,2,1218,"Residential, Single Family Detached",Real Broker,49.60391,-97.05832
+202419115,"2074 Sinclair St, Winnipeg, R2V 3R4",Garden City,399900,3,2,1280,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.95239,-97.13361
+202419132,"106 Wilkinson Cres, Portage La Prairie, R1N 1A8",Koko Platz,750000,4,4,3300,"Residential, Single Family Detached",Real Broker,49.95602,-98.30045
+202419136,"401 Houde Dr, Winnipeg, R3V 1C7",St Norbert,289000,2,2,832,"Residential, Townhouse",RE/MAX Associates,49.76798,-97.16
+202419144,"1027 Mulvey Ave, Winnipeg, R3M 1G9",Crescentwood,319900,2,2,984,"Residential, Single Family Detached",Versace Real Estate,49.86383,-97.16561
+202419149,"1209 - 65 Fiorentino St, Winnipeg, R3W 0M2",Starlite Village,224900,2,1,710,"Condominium, Apartment",RE/MAX Performance Realty,49.90413,-97.05142
+202419152,"260 Belmont Ave, Winnipeg, R2V 0Y4",West Kildonan,238900,2,1,919,"Residential, Single Family Detached",Judy Lindsay Team Realty,49.93785,-97.1207
+202419154,"3 Aspen Five Dr, Steinbach, R5G 0M4",R16,139900,3,2,1200,"Residential, Mobile Home",Lifestyles Real Estate Ltd.,49.51257,-96.66256
+202419163,"683 Garfield St, Winnipeg, R3G 2M3",West End,289899,3,2,930,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.88995,-97.17675
+202419165,"289 Washington Ave, Winnipeg, R2K 1L4",Elmwood,249900,3,2,1080,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.91851,-97.10769
+202419171,"1450 Ross Ave, Winnipeg, R3E 1E1",Weston,229900,3,1,1155,"Residential, Single Family Detached",RE/MAX performance realty,49.91605,-97.18638
+202419176,"32 Block 3 White Lake Rd, Whiteshell Provincial Pk, R0E 1R0",R29,438000,5,1,1440,"Residential, Single Family Detached",Sampson's Realty Group,49.68147,-95.36391
+202419177,"314 3rd St, Stonewall, R0C 2Z0",Stonewall,649900,4,3,1700,"Residential, Single Family Detached",RE/MAX Town & Country,50.131,-97.32367
+202419178,"888 Kernaghan Ave, Winnipeg, R2C 4Z6",Mission Gardens,374900,3,1,1080,"Residential, Single Family Detached",RE/MAX Performance Realty,49.89117,-97.03045
+202419181,"604 1st St, Stonewall, R0C 2Z0",Stonewall,229900,1,1,519,"Residential, Single Family Detached",RE/MAX Town & Country,50.1275,-97.32753
+202419182,"77154 39 R Rd, Brokenhead Rm, R0E 0C0",R03,599900,4,4,1786,"Residential, Single Family Detached",Royal LePage Prime Real Estate,50.05423,-96.50638
+202419185,"2 Vermette Pl, Winnipeg, R2N 2Y9",River Park South,435000,5,3,1224,"Residential, Single Family Detached",Powell Property Group,49.79939,-97.11329
+202419189,"57 - 1290 Warde Ave, Winnipeg, R3X 0L4",Royalwood,474900,2,3,1775,"Condominium, Townhouse",Royal LePage Dynamic Real Estate,49.82019,-97.06968
+202419192,"266 Oak Forest Cres, Winnipeg, R3K 0V7",The Oaks,1800000,5,3,2556,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.86854,-97.33213
+202419193,"8 Garand Ave, St Pierre-Jolys, R0A 1V0",R17,309900,2,1,1208,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.4408,-96.98513
+202419197,"3 Highbury Rd, Winnipeg, R2N 3N3",River Park South,399900,3,2,1070,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.80364,-97.09498
+202419202,"219 Creekside Rd, Winnipeg, R3Y 0P1",Bridgwater Lakes,709900,3,3,2028,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.80565,-97.19413
+202419204,"217 Belvidere St, Winnipeg, R3J 2H1",Deer Lodge,384900,3,2,1535,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.87837,-97.23318
+202419208,"334 Mcmeans Ave, Winnipeg, R2C 0W8",East Transcona,269900,3,2,1064,"Residential, Single Family Attached",Coldwell Banker Preferred Real Estate,49.90549,-96.9959
+202419210,"517 Vaughan Ave, Selkirk, R1A 0T2",R14,234900,3,1,964,"Residential, Single Family Detached",Royal LePage Prime Real Estate,50.14477,-96.88263
+202419213,"184 Balmoral St, Winnipeg, R3C 1X6",West Broadway,439900,7,4,2567,"Residential, Duplex",Real Broker,49.88619,-97.1532
+202419215,"33048 Pth 12 Hwy, Steinbach, R5G 1M3",R16,669900,4,2,1715,"Residential, Single Family Detached",RE/MAX One Group,49.53278,-96.68849
+202419216,"808 Turnberry Cove, Niverville, R0A 0A2",The Highlands,649900,3,2,1529,"Residential, Single Family Detached",Ember Realty Group Ltd.,49.59313,-97.02803
+202419217,"73 Swan Lake Bay, Winnipeg, R3T 4W6",Waverley Heights,449900,3,2,980,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.81348,-97.1704
+202419219,"179 Mayfield Cres, Winnipeg, R3R 3L2",Charleswood,659900,4,3,1894,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.85153,-97.25856
+202419226,"295 Woodlawn St, Winnipeg, R3J 2H8",St James,229900,2,1,747,"Residential, Single Family Detached",Powell Property Group,49.88101,-97.23406
+202419230,"16 Samfelag Rd, Gimli Rm, R0C 2W0",Sandy Hook,399900,2,2,1210,"Condominium, Single Family Detached",Interlake Real Estate,50.54843,-96.9852
+202419231,"206 Laurent Dr, Winnipeg, R3V 1S7",St Norbert,349900,4,2,1078,"Residential, Single Family Detached",RE/MAX PROFESSIONALS,49.76932,-97.17183
+202419233,"27154 Hazelridge Rd, Oakbank, R5N 0E9",RM of Springfield,1390000,5,4,2798,"Residential, Single Family Detached",Greg Michie Realty Group,49.95955,-96.839
+202419241,"104 Matheson Ave, Winnipeg, R2W 0C2",Scotia Heights,379900,5,2,1404,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.92744,-97.11766
+202419245,"865 Rossmore Ave, West St Paul, R2V 4T9",West St Paul,539900,3,3,1760,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.97533,-97.10126
+202419250,"9 - 775 Mulvey Ave, Winnipeg, R3M 1G4",Crescentwood,89900,1,1,372,"Condominium, Apartment",RE/MAX One Group,49.86738,-97.15494
+202419251,"285 Inglewood St, Winnipeg, R3J 1X1",St James,239900,3,2,1070,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.88224,-97.21976
+202419252,"342 11th St, Morden, R6M 1L7",R35,134900,1,1,480,"Residential, Single Family Detached",Morden Realty Inc.,49.19595,-98.10708
+202419254,"625 Grassmere Rd, West St Paul, R4A 4A9",West St Paul,489900,3,2,1260,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.98439,-97.07767
+202419260,"6252 Henderson Hwy, Gonor, R1C 0B9",Gonor,599900,3,3,1979,"Residential, Single Family Detached",Century 21 Bachman & Associates,50.06515,-96.95469
+202419262,"25 Mulberry Ave, Niverville, R0A 0A2",R07,419900,2,2,1163,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.60651,-97.05578
+202419263,"51 Kinver Ave, Winnipeg, R2R 2M8",Tyndall Park,299900,4,2,1019,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.94383,-97.19764
+202419275,"58 Lucerne Pl, Winnipeg, R3X 0R1",Bonavista,599900,4,3,1674,"Residential, Single Family Detached",Maximum Realty,49.82404,-97.05553
+202419282,"198 Vineland Cres, Winnipeg, R3Y 1T7",Whyte Ridge,599900,5,3,1838,"Residential, Single Family Detached",Amenity Real Estate Ltd.,49.80305,-97.21756
+202419284,"84 Des Hivernants Blvd, Winnipeg, R3X 0J3",Sage Creek,499900,3,4,1687,"Residential, Single Family Detached",Monopoly Realty,49.83108,-97.04283
+202419285,"1 26 Rd, Roseau River, R0A 1P0",R17,324900,3,1,832,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.17762,-96.82607
+202419286,"212 - 79 Swindon Way, Winnipeg, R3P 0X2",Tuxedo,294900,2,2,1164,"Condominium, Apartment",Royal LePage Prime Real Estate,49.85323037034,-97.2141468899
+202419290,"109 - 454 Beliveau Rd, Winnipeg, R2M 1T5",St Vital,209900,2,1,880,"Condominium, Apartment",Royal LePage Top Producers Real Estate,49.84163,-97.09239
+202419291,"244 Rutland St, Winnipeg, R3M 2L6",St James,389900,3,2,972,"Residential, Single Family Detached",RE/MAX One Group,49.88067,-97.22112
+202419292,"2109 - 1048 Bairdmore Blvd, Winnipeg, R3T 5J7",Richmond West,164900,2,1,850,"Condominium, Apartment",Royal LePage Prime Real Estate,49.78136,-97.15809
+202419294,"306 - 300 Centre St, Winnipeg, R3Y 2A1",Bridgwater Centre,339900,2,1,900,"Condominium, Apartment",Powell Property Group,49.79184,-97.19719
+202419296,"479 Albany St, Winnipeg, R3J 2B4",St James,139900,2,1,720,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.88895,-97.22475
+202419297,"5149 85 Rd, Balmoral, R0C 0H0",RM of Rockwood,314900,3,1,1225,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,50.26581,-97.32117
+202419300,"7 Nuthatch Bay, Winnipeg, R2V 5C9",Highland Pointe,569900,4,3,1749,"Residential, Single Family Detached",WinMax Real Estate Ltd.,49.96721,-97.11768
+202419301,"6 Lowery Bay, Winnipeg, R2K 3C6",East Kildonan,339900,3,2,1262,"Residential, Single Family Detached",Kehler Realty Ltd.,49.90559,-97.07552
+202419303,"270 Ainslie St, Winnipeg, R3J 2Z6",Silver Heights,349900,3,2,1125,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.87794,-97.26135
+202419304,"157 Bairdmore Blvd, Winnipeg, R3T 5X6",Richmond West,529900,3,4,1617,"Residential, Single Family Detached",Maximum Realty,49.79273,-97.16302
+202419305,"71 Mankato Cres, Winnipeg, R2P 0S5",Maples,379900,4,2,888,"Residential, Single Family Detached",RE/MAX Associates,49.95556,-97.16992
+202419306,"164 Chestnut St, Winnipeg, R3G 1R6",Wolseley,319900,3,3,2050,"Residential, Duplex",Maximum Realty,49.88232,-97.16506
+202419307,"168 Glenwood Cres, Winnipeg, R2L 1J9",Glenelm,449900,5,4,1546,"Residential, Single Family Detached",Vivico Real Estate Inc.,49.91601,-97.12434
+202419309,"345 Seven Oaks Ave, Winnipeg, R2V 0L2",West Kildonan,149900,3,1,1306,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.93543,-97.12759
+202419310,"269 Inglewood St, Winnipeg, R3J 1X1",St James,349900,3,2,1179,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.88166,-97.21982
+202419314,"6 - 84 Sandrington Dr, Winnipeg, R2N 0J3",St Vital,469900,2,2,1376,"Condominium, Single Family Attached",Sutton Group - Kilkenny Real Estate,49.8181,-97.10949
+202419315,"34 Glen Ave, Winnipeg, R2M 1V5",St Vital,449900,6,3,2500,"Residential, Single Family Detached",Powell Property Group,49.85048,-97.1154
+202419316,"64023 307 Hwy, Seven Sisters Falls, R0E 1Y0",Seven Sisters Falls,379900,4,3,1400,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,50.10536,-96.02865
+202419317,"816 Boyd Ave, Winnipeg, R2X 0Z4",North End,134900,2,1,1280,"Residential, Single Family Detached",Century 21 Gold Key Realty Ltd.,49.92516,-97.15287
+202419318,"24 Habs Bay, La Broquerie, R0A 0W3",R16,329900,4,2,950,"Residential, Single Family Detached",RE/MAX performance realty,49.51885,-96.51272
+202419319,"27 Inkster Blvd, Winnipeg, R2W 0J3",Scotia Heights,199900,5,1,930,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.92442,-97.11478
+202419320,"102 - 1720 Pembina Hwy, Winnipeg, R3T 5T4",Fort Garry,209000,2,2,940,"Condominium, Apartment",RE/MAX One Group,49.82751,-97.15213
+202419321,"41 Zimmerman Dr, Winnipeg, R3R 3X2",Charleswood,649000,4,3,2041,"Residential, Single Family Attached",Royal Caves Real Estate,49.84124,-97.32242
+202419323,"322 - 10 Hill Grove Pt, Winnipeg, R3Y 0V6",Bridgwater Forest,324900,2,2,1069,"Condominium, Apartment",RE/MAX One Group,49.79884,-97.1922
+202419324,"854 Oakenwald Ave, Winnipeg, R3T 1N1",East Fort Garry,419900,3,1,1192,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.84289,-97.14906
+202419325,"126 Morley Ave, Winnipeg, R3L 0X8",Riverview,485000,3,4,1375,"Residential, Single Family Detached",Real Broker,49.86724,-97.12825
+202419326,"555 Rosedale Ave, Winnipeg, R3L 1M6",Lord Roberts,359900,3,2,1152,"Residential, Single Family Detached",Zappia Group Realty Ltd.,49.85679,-97.14213
+202419327,"313 - 35 Valhalla Dr, Winnipeg, R2G 0G5",North Kildonan,219900,2,1,902,"Condominium, Apartment",Century 21 Carrie Realty,49.94904,-97.0864
+202419329,"26 - 415 Stradbrook Ave, Winnipeg, R3L 0J7",Osborne Village,124900,1,1,594,"Condominium, Apartment",Real Broker,49.87827,-97.1433
+202419332,"62 Rockspur St, Winnipeg, R2K 3M6",Valley Gardens,399900,4,3,1256,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.92217,-97.06591
+202419333,"932 Kildare Ave, Winnipeg, R2C 5B7",East Transcona,319900,3,2,720,"Residential, Single Family Detached",Kehler Realty Ltd.,49.90079,-96.97582
+202419336,"399 Park West Dr, Winnipeg, R3Y 1S4",Bridgwater Centre,479000,3,3,1467,"Residential, Townhouse",Coldwell Banker Preferred Real Estate,49.79257,-97.19919
+202419337,"121 Summerscales Pl, Winnipeg, R2V 5E2",Highland Pointe,534900,3,3,1600,"Residential, Single Family Detached",Quest Residential Real Estate Ltd.,49.94602,-97.12337
+202419338,"76 Brian Monkman Bay, Winnipeg, R3X 2G1",Island Lakes,619000,4,4,1851,"Residential, Single Family Detached",RE/MAX One Group,49.82736,-97.05981
+202419339,"26 Red Rd, Giroux, R0A 0N0",R16,67500,2,2,560,"Residential, Single Family Detached",RE/MAX Performance Realty,49.57427,-96.56977
+202419341,"4 Legault Lane, Elie, R0H 0H0",RM of Cartier,399900,3,3,1348,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.89767,-97.75542
+202419342,"216 North Haven Way, West St Paul, R4A 6A1",West St Paul,599000,3,3,1676,"Residential, Single Family Detached",Qualico Realty Services (Manitoba) Ltd.,49.99555,-97.14217
+202419343,"411 Jamison Ave, Winnipeg, R2K 1N3",Elmwood,249900,2,1,720,"Residential, Single Family Detached",I.H.S Realty Ltd.,49.91628,-97.10333
+202419344,"892 Wayoata St, Winnipeg, R2C 3M7",East Transcona,284900,4,2,720,"Residential, Single Family Attached",Century 21 Advanced Realty,49.90768,-96.98886
+202419347,"607 Beecher Ave, Winnipeg, R2V 4R1",Margaret Park,299800,3,2,1065,"Residential, Single Family Detached",Century 21 Advanced Realty,49.95206,-97.12406
+202419348,"98 2nd Ave, Carman, R0G 0J0",R39,175000,2,1,722,"Residential, Single Family Detached",Klos Realty Ltd.,49.50565,-97.99642
+202419349,"64 Park St, Vivian, R5L 0J7",RM of Springfield,310000,2,1,1265,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.87904,-96.45732
+202419350,"595 Beecher Ave, Winnipeg, R2V 4R1",Garden City,879000,4,3,2405,"Residential, Single Family Detached",Maximum Realty,49.95199,-97.12384
+202419351,"1207 De Graff Pl, Winnipeg, R2G 1Y7",North Kildonan,379900,3,2,1484,"Residential, Single Family Detached",Real Broker,49.93565,-97.06895
+202419353,"1030 Southwood Ave, Winnipeg, R3T 1J8",West Fort Garry,279800,3,1,808,"Residential, Single Family Detached",Royal LePage Riverbend Realty,49.8425,-97.15601
+202419354,"802 Alexander Ave, Winnipeg, R3E 1H9",West End,222900,4,2,996,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.90876,-97.15889
+202419355,"4 - 499 Lavoie Ave, St Pierre-Jolys, R0A 1V0",R17,174900,3,2,625,"Residential, Townhouse",Coldwell Banker Preferred Real Estate,49.4408,-96.98513
+202419356,"35 Roslyn Cres, Winnipeg, R3L 0H6",Osborne Village,469900,2,2,1029,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.88062,-97.15148
+202419357,"265 Gilmore Ave, Winnipeg, R2G 0Z3",North Kildonan,429900,4,3,1266,"Residential, Single Family Detached",Century 21 Advanced Realty,49.94895,-97.07678
+202419358,"808 Forbes Rd, Winnipeg, R2N 4B6",South St Vital,649900,5,2,1260,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.77789,-97.10409
+202419360,"354 Ferry Rd, Winnipeg, R3J 1W4",St James,299900,4,2,1152,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.88471,-97.21835
+202419361,"19 Viola St, Winnipeg, R2V 3B8",Garden City,414200,4,2,1145,"Residential, Single Family Detached",Dreamhaven Realty Inc.,49.94733,-97.15034
+202419362,"50 Mardrey Bay, Hillside Beach, R0E 2A0",Hillside Beach,574900,3,2,1800,"Residential, Single Family Detached",The Glen Williams Team,38.89037,-77.03196
+202419365,"95 Pincarrow Pt, Winnipeg, R3Y 1E5",Whyte Ridge,649000,4,4,1930,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.81299,-97.21018
+202419368,"250 Bellflower Rd, Winnipeg, R3Y 0H8",Bridgwater Lakes,699900,5,4,2313,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.79359,-97.20466
+202419369,"23 Woodland Dr, Alexander RM, R0E 1A0",Pinawa Bay,352500,2,1,980,"Residential, Single Family Detached",Wendigo Realty,50.31257,-95.79895
+202419370,"14 Sandusky Dr, Winnipeg, R3T 5W4",Richmond West,564900,5,4,1731,"Residential, Single Family Detached",MaxPro Real Estate,49.7879,-97.17109
+202419371,"30 Rockridge Cres, Blumenort, R0A 0C1",R16,379900,4,2,1030,"Residential, Single Family Detached",Century 21 Gold Key Realty Ltd.,49.60576,-96.68696
+202419372,"123 Stoneknife Cres, Winnipeg, R3X 0V5",Sage Creek,679900,4,3,2010,"Residential, Single Family Detached",Quest Residential Real Estate Ltd.,49.82028,-97.03697
+202419374,"2 Bernardin St, Elie, R0H 0H0",RM of Cartier,364900,3,3,2054,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.9037,-97.75849
+202419375,"94 Bergen Bay, Kleefeld, R0A 0V2",R16,419900,5,2,1118,"Residential, Single Family Detached",Century 21 Gold Key Realty Ltd.,49.49806,-96.88105
+202419376,"40 Barkman St, Blumenort, R0A 0C0",R16,359900,4,2,1085,"Residential, Single Family Detached",Century 21 Gold Key Realty Ltd.,49.60261,-96.69755
+202419377,"1807 - 99 Shahi St, Winnipeg, R3Y 1Z8",South Pointe,319900,2,2,1078,"Condominium, Townhouse",Royal LePage Dynamic Real Estate,49.80045,-97.1974
+202419380,"161 Mccrindle Bay, Winnipeg, R3R 3Z6",Charleswood,589900,3,3,1852,"Residential, Single Family Detached",Powell Property Group,49.84016,-97.3155
+202419381,"312 - 75 Swindon Way, Winnipeg, R3P 0X2",Tuxedo,319900,2,2,1212,"Condominium, Apartment",Coldwell Banker Preferred Real Estate,49.85383,-97.21443
+202419386,"204 - 60 Shore St, Winnipeg, R3T 2C8",Fairfield Park,202900,1,1,781,"Condominium, Apartment",Century 21 Bachman & Associates,49.80047,-97.15921
+202419387,"1129 Dominion St, Winnipeg, R3E 2P3",Sargent Park,279900,2,1,906,"Residential, Single Family Detached",RE/MAX performance realty,49.89943,-97.17719
+202419388,"663 Coventry Rd, Winnipeg, R3R 1B8",Charleswood,449000,3,2,910,"Residential, Single Family Detached",Real Broker,49.85291,-97.2776
+202419389,"35 Governor's Crt, Winnipeg, R2V 4K7",Garden City,274900,3,2,920,"Residential, Single Family Attached",Optimum Real Estate,49.95392,-97.13108
+202419391,"409 Railway St, Douglas, R0K 0R0",DNE,239900,3,2,1260,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.89219,-99.71275
+202419392,"3 Edith Bay, Winnipeg, R2G 2T5",North Kildonan,419900,3,2,1528,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.94388,-97.05942
+202419395,"405 - 139 Market Ave, Winnipeg, R3B 0P5",Exchange District,204900,1,1,655,"Condominium, Apartment",RE/MAX performance realty,49.89849,-97.13579
+202419396,"73 Aspen Cove, West St Paul, R4A 0E7",West St Paul,496000,2,2,1255,"Residential, Single Family Detached",Real Broker,49.98489,-97.09609
+202419397,"11B - 778 Mcmillan Ave, Winnipeg, R3M 0V3",Crescentwood,194900,2,1,990,"Condominium, Apartment",Royal LePage Prime Real Estate,49.87047,-97.15744
+202419398,"14 Aspen Cove, West St Paul, R4A 0E7",R15,499900,3,2,1256,"Residential, Single Family Detached",Real Broker,49.98489,-97.09609
+202419399,"487 Flora Ave, Winnipeg, R2W 2R9",North End,119900,4,2,1152,"Residential, Single Family Detached",Ember Realty Group,49.91486,-97.14523
+202419400,"82 Aspen Cove, West St Paul, R4A 0E7",R15,679900,4,3,2220,"Residential, Single Family Detached",Real Broker,49.98489,-97.09609
+202419402,"939 Burrows Ave, Winnipeg, R2X 0R6",North End,205000,2,1,950,"Residential, Single Family Detached",Century 21 Advanced Realty,49.92442,-97.16125
+202419405,"7 Maple Dr, Stony Mountain, R0C 3A0",Stony Mountain,499900,3,2,1281,"Residential, Single Family Detached",Real Broker,50.08611,-97.21297
+202419408,"15 - 109 University Cres, Winnipeg, R3T 2N5",University Heights,264900,2,2,869,"Condominium, Apartment",Tummillo Realty Group,49.81581,-97.14778
+202419409,"151 Railroad Ave, Morris, R0G 1K0",R17,269900,3,2,1064,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,38.66409,-96.48045
+202419410,"301 - 283 Bannatyne Ave, Winnipeg, R3B 3B2",Exchange District,299900,2,2,1400,"Condominium, Apartment",Royal LePage Prime Real Estate,49.89835,-97.1414
+202419411,"327 Superior Ave, Selkirk, R1A 0Z9",R14,269900,3,1,900,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,50.1466,-96.8737
+202419413,"5 Mooney Ave, Steinbach, R5G 0W4",Clearspring Greens,344900,2,1,1054,"Residential, Single Family Detached",Keller Williams Real Estate Services,49.54255,-96.66988
+202419415,"576 Machray Ave, Winnipeg, R2W 1A9",Sinclair Park,314900,3,2,1560,"Residential, Single Family Detached",Century 21 Advanced Realty,49.92795,-97.14152
+202419416,"716 River Park Dr, Swan River, R0L 1Z0",Swan River,495000,4,2,1982,"Residential, Single Family Detached",eXp Realty,52.11221,-101.2689
+202419417,"240 Jones Dr, St Francois Xavier, R4L 1A1",RM of St Francois Xavier,899900,5,3,1662,"Residential, Single Family Detached",Century 21 Carrie Realty,49.88955,-97.50895
+202419419,"12 Peres Oblats Dr, Winnipeg, R3X 1S2",Island Lakes,449800,4,3,1200,"Residential, Single Family Detached",RE/MAX PROFESSIONALS,49.83868,-97.05626
+202419420,"204 - 206 Greenway Cres, Winnipeg, R2Y 1Z2",Crestview,179900,1,1,640,"Condominium, Apartment",Ethos Realty Inc.,49.88233,-97.28472
+202419422,"345 Roberta Ave, Winnipeg, R2K 0K5",East Kildonan,299900,3,2,1170,"Residential, Single Family Attached",Royal LePage Dynamic Real Estate,49.93047,-97.09389
+202419424,"52 Sunset Blvd, Winnipeg, R2M 0X4",Elm Park,349900,3,2,904,"Residential, Single Family Detached",RE/MAX Performance Realty,49.85424,-97.11511
+202419425,"914 De L'eglise Ave, Winnipeg, R0E 0E0",St Norbert,539900,4,3,1301,"Residential, Single Family Detached",RE/MAX One Group,49.76477,-97.14881
+202419426,"15 Foxberry Bay, Winnipeg, R3R 1X7",Westdale,299900,2,3,1012,"Residential, Single Family Attached",Judy Lindsay Team Realty,49.85217,-97.32061
+202419427,"41 Cherryhill Rd, Winnipeg, R2V 2L1",Garden City,449900,5,2,1378,"Residential, Single Family Detached",RE/MAX Associates,49.94004,-97.14755
+202419428,"303 - 109 Swindon Way, Winnipeg, R3P 0W3",Tuxedo,177900,1,1,890,"Condominium, Apartment",RE/MAX Performance Realty,49.85161,-97.21488
+202419429,"26 Aspen Lane, La Salle, R0G 0A1",Prairieview,549900,5,3,1326,"Condominium, Single Family Detached",RE/MAX Performance Realty,49.69413,-97.26776
+202419430,"22 Bridgeland Dr, Winnipeg, R3Y 0B8",Bridgwater Forest,774900,4,4,2420,"Residential, Single Family Detached",RE/MAX PROFESSIONALS,49.80611,-97.176
+202419431,"6 Leatherwood Cres, Winnipeg, R2G 3M9",North Kildonan,429900,3,3,1200,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.95018,-97.05105
+202419433,"97 Old Arnes Pl, Gimli, R0C 1B0",Silver Harbour,249900,3,2,1348,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,50.81079,-96.96634
+202419434,"23 Wingham Ave, Winnipeg, R2M 1K5",St Vital,379900,3,1,1073,"Residential, Single Family Detached",RE/MAX performance realty,49.84889,-97.09727
+202419435,"100 Ashworth St, Winnipeg, R2M 4B8",Meadowood,319900,4,2,816,"Residential, Single Family Attached",RE/MAX Performance Realty,49.83084,-97.09681
+202419437,"307 - 90 Bole St, Winnipeg, R3L 1X5",Osborne Village,339900,2,2,1030,"Condominium, Apartment",Century 21 Bachman & Associates,49.87954,-97.144
+202419438,"471 Linwood St, Winnipeg, R3E 2E2",Deer Lodge,389900,3,2,976,"Residential, Single Family Detached",Judy Lindsay Team Realty,49.88801,-97.22716
+202419439,"293 Guildford St, Winnipeg, R3J 2J4",Deer Lodge,399900,3,4,1402,"Residential, Single Family Detached",Patrick Realty Ltd.,49.88105,-97.23526
+202419440,"25 Slater St, Balmoral, R0C 0H0",Balmoral,469900,3,2,1315,"Residential, Single Family Detached",Unrau Realty,50.26581,-97.32117
+202419443,"178 Selkirk Ave, Winnipeg, R2W 2L4",North End,259900,7,2,2400,"Residential, Duplex",Settleway Realty,49.91173,-97.13144
+202419444,"537 Victoria Ave, Winnipeg, R2C 0G2",East Transcona,349900,4,2,1042,"Residential, Single Family Detached",RE/MAX PROFESSIONALS,49.89592,-96.99068
+202419445,"496 Aberdeen Ave, Winnipeg, R3E 2B5",North End,199999,4,2,1455,"Residential, Duplex",Settleway Realty,49.91066,-97.15916
+202419446,"308 Reg Wyatt Way, Winnipeg, R3W 0B4",Harbour View South,659000,3,3,1821,"Residential, Single Family Detached",RE/MAX Associates,49.91676,-97.04912
+202419447,"43 Creekside Dr, Steinbach, R5G 0A3",Deerfield,399900,5,3,1220,"Residential, Single Family Detached",RE/MAX Performance Realty,49.52312,-96.65381
+202419451,"17 Nichol Ave, Winnipeg, R2M 1V6",Norberry,399900,3,2,1240,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.84994,-97.11377
+202419452,"48166 Birch River Rd, Hadashville, R0E 0X0",Medika,479900,3,2,1166,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.68887,-95.90829
+202419455,"Long Lake, R0E 0J0",R28,325000,2,1,672,"Residential, Single Family Detached",Greg Michie Realty Group,50.87301,-95.38168
+202419457,"455 Swailes Ave, Winnipeg, R2V 1R9",Garden City,499900,4,3,1180,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.9534,-97.12346
+202419461,"3911 Henderson Hwy, East St Paul, R2E 1B2",East St Paul,999500,5,4,2218,"Residential, Single Family Detached",Royal LePage Prime Real Estate,50.01385,-97.03641
+202419462,"1493 Lincoln Ave, Winnipeg, R3E 0Y9",Weston,224900,3,1,745,"Residential, Single Family Detached",RE/MAX Performance Realty,49.91496,-97.19095
+202419464,"74 Pennyhill Gate, Winnipeg, R2P 1W7",Amber Gates,634900,4,3,2219,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.96514,-97.15714
+202419465,"94 Biscayne Bay, Winnipeg, R3T 0N5",Fort Garry,274900,3,2,888,"Residential, Townhouse",RE/MAX One Group,49.83779,-97.16043
+202419469,"89 Bondar Bay, Winnipeg, R2P 1B3",Maples,399900,5,3,1180,"Residential, Single Family Detached",RE/MAX Associates,49.95341,-97.18357
+202419472,"19 Bloomfield Path, Winnipeg, R2R 2A5",Waterford Green,539900,5,4,1746,"Residential, Single Family Detached",Century 21 Advanced Realty,49.95556,-97.20448
+202419475,"42 Golden Willow Cres, Winnipeg, R2M 4E2",Bright Oaks,379900,4,2,916,"Residential, Single Family Detached",Real Broker,49.82271,-97.13043
+202419476,"401 - 290 Waterfront Dr, Winnipeg, R3B 0A6",Exchange District,539900,2,2,1424,"Condominium, Apartment",Royal LePage Dynamic Real Estate,49.89795,-97.13339
+202419477,"2 Calder Bay, Winnipeg, R3T 5L9",Richmond West,545888,4,4,1892,"Residential, Single Family Detached",RE/MAX One Group,49.78722,-97.16056
+202419478,"110 Mcfadden Ave, Winnipeg, R2C 3E5",South Transcona,339900,3,2,810,"Residential, Single Family Detached",Century 21 Advanced Realty,49.88536,-96.99895
+202419479,"304 - 1044 Wilkes Ave, Winnipeg, R3P 2S7",Linden Woods,299900,2,1,833,"Condominium, Apartment",RE/MAX Performance Realty,49.84693,-97.19243
+202419481,"210 - 255 Peguis St, Winnipeg, R3W 0H4",Devonshire Village,344900,3,3,1385,"Condominium, Townhouse",Sutton Group - Kilkenny Real Estate,49.90405,-97.04793
+202419482,"88 Springwater Rd, Winnipeg, R3Y 1N3",Bridgwater Lakes,759000,4,3,2359,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.8011,-97.19784
+202419484,"14 Robert Cartwright Pl, Winnipeg, R2G 3Y7",Algonquin Estates,359900,3,2,691,"Residential, Single Family Detached",Century 21 Advanced Realty,49.93724,-97.05961
+202419485,"16 - 115 4th St, Altona, R0G 0B0",R35,199900,2,1,1095,"Condominium, Apartment",Border Real Estate Ltd.,49.09981,-97.56285
+202419487,"22 Aspen One Dr, Steinbach, R5G 1S5",R16,64900,2,1,768,"Residential, Mobile Home",Coldwell Banker Preferred Real Estate,49.51508,-96.66072
+202419489,"164 Tu-pelo Ave, Winnipeg, R2K 3S6",Valley Gardens,389900,3,3,1050,"Residential, Single Family Detached",Century 21 Advanced Realty,49.92244,-97.06218
+202419491,"15 Nolin Ave, Winnipeg, R3V 1P1",Richmond Lakes,389000,3,2,1078,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.77122,-97.16578
+202419493,"43013 Dawson Rd, Ste Anne, R0E 1S0",R06,399740,3,1,1700,"Residential, Single Family Detached",Keller Williams Real Estate Services,49.65549,-96.4781
+202419494,"38 Kurt Ave, Winnipeg, R2R 1N5",Tyndall Park,339900,3,2,838,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.93714,-97.20885
+202419495,"7850 Roblin Blvd, Headingley, R4H 1B2",Headingley South,975000,5,3,1587,"Residential, Single Family Detached",Shindico Realty Inc.,49.8629,-97.38518
+202419496,"1 Lakeview Cres, Gimli Rm, R0C 0M0",Lake Forest Estates,379000,3,2,1577,"Residential, Single Family Detached",Right Choice Realty,50.74297,-96.98746
+202419497,"17 Block 3, White Lake Rd, Whiteshell Provincial Pk, R0E 1Y0",R29,359900,2,1,960,"Residential, Single Family Detached",Evergreen Realty,49.68147,-95.36391
+202419498,"152 Sherburn St, Winnipeg, R3G 2K4",Wolseley,319900,2,1,1029,"Residential, Single Family Detached",RE/MAX Performance Realty,49.88154,-97.17626
+202419499,"72 Bonaventure Dr, Winnipeg, R3X 0N1",Bonavista,539000,3,2,1261,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.82678,-97.0611
+202419501,"48 Tallgrass Lane, Altona, R0G 0B1",R35,328000,3,2,1722,"Residential, Single Family Detached",Border Real Estate Ltd.,49.11489,-97.56885
+202419503,"335 Niagara St, Winnipeg, R3N 0V3",River Heights North,489800,3,2,1542,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.8688,-97.18551
+202419505,"6 Ammeter Bay, Headingley, R4H 0E7",Taylor Farm,1239400,3,4,2377,"Residential, Single Family Detached",Real Broker,49.87321,-97.39527
+202419506,"1 Arthur Fiola Pl, Ste Anne, R5G 1A4",R06,559999,5,3,1446,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,38.89037,-77.03196
+202419507,"5 - 3451 Portage Ave, Winnipeg, R3K 0X2",Crestview,164900,2,1,970,"Condominium, Apartment",Century 21 Carrie Realty,49.88307,-97.30244
+202419510,"134 Whitley Dr, Winnipeg, R2N 1P5",Meadowood,412900,3,2,1248,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.82505,-97.09787
+202419512,"81 Gardner Trl, West St Paul, R2V 5J6",West St Paul,629900,4,3,1784,"Residential, Single Family Detached",eXp Realty,42.57647,-72.00009
+202419513,"720 Pasadena Ave, Winnipeg, R3T 2T3",Fort Richmond,399900,5,3,1799,"Residential, Single Family Detached",RE/MAX Performance Realty,49.80054,-97.14095
+202419514,"30 Oustic Ave, Winnipeg, R2M 1N2",Norberry,349900,2,2,840,"Residential, Single Family Detached",RE/MAX Associates,49.84046,-97.11417
+202419515,"302 - 180 Beliveau Rd, Winnipeg, R2M 1T1",St Vital,209900,2,1,1014,"Condominium, Apartment",RE/MAX Associates,49.83726,-97.10524
+202419516,"39 Siddiqui Rge, Winnipeg, R3Y 1R7",Waverley West,1478000,4,4,2872,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.80046,-97.17925
+202419517,"47 - 1010 Wilkes Ave, Winnipeg, R3P 2S4",Linden Woods,367000,3,4,1233,"Condominium, Townhouse",eXp Realty,49.84685,-97.18939
+202419518,"3 Elmdale Pl, Niverville, R0A 1E0",R07,299900,5,2,1008,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.59988,-97.0446
+202419522,"75 Whiteshell Ave, Winnipeg, R2C 2R7",West Transcona,339900,2,2,955,"Residential, Single Family Detached",Keller Williams Real Estate Services,49.90632,-97.01133
+202419523,"462 Dufferin Ave, Winnipeg, R2V 3T3",North End,89900,3,1,1067,"Residential, Single Family Detached",Century 21 Carrie Realty,49.91251,-97.14555
+202419524,"147 Mcmeans Ave, Winnipeg, R2C 0W6",East Transcona,349900,3,2,950,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.90545,-96.99908
+202419525,"339 Harvard Ave, Winnipeg, R2C 1Y7",West Transcona,229900,2,1,702,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.89907,-97.0109
+202419526,"283 Mckay Ave, Winnipeg, R2G 0N3",North Kildonan,279900,4,3,1120,"Residential, Single Family Attached",RE/MAX One Group,49.9409,-97.08446
+202419528,"64 Melonlea Cove, Winnipeg, R2G 2L3",North Kildonan,289900,3,2,875,"Residential, Single Family Attached",MaxPro Real Estate,49.94236,-97.06055
+202419529,"120 Joyce St, Beausejour, R0E 0C0",R03,409900,4,3,1350,"Residential, Single Family Detached",Real Broker,50.05559,-96.50636
+202419530,"18 Elm Park Rd, Winnipeg, R2M 0V9",Elm Park,399900,4,2,1527,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.85743,-97.11362
+202419535,"83 Meadowbank Rd, Winnipeg, R3Y 1N7",Whyte Ridge,499900,4,3,1255,"Residential, Single Family Detached",eXp Realty,49.81912,-97.20181
+202419537,"542 Prosper St, Winnipeg, R2J 0M8",Norwood,334900,2,1,709,"Residential, Single Family Detached",RE/MAX performance realty,49.88109,-97.10109
+202419538,"30 Gullane St, Niverville, R0A 0A2",The Highlands,379900,2,2,1015,"Residential, Single Family Detached",Real Broker,49.59186,-97.03387
+202419539,"34 Gullane St, Niverville, R0A 0A2",The Highlands,374900,3,1,1015,"Residential, Single Family Detached",Real Broker,49.59186,-97.03387
+202419540,"58 Gullane St, Niverville, R0A 0A2",The Highlands,369900,2,1,970,"Residential, Single Family Detached",Real Broker,30.49048,-91.51552
+202419541,"742 Mccalman Ave, Winnipeg, R2L 1G7",East Elmwood,299900,3,2,1570,"Residential, Single Family Detached",Maximum Realty,49.90361,-97.09348
+202419542,"315 Peguis St, Winnipeg, R3W 0P6",Devonshire Park,439900,3,3,1400,"Residential, Single Family Attached",RE/MAX Associates,49.90406,-97.04792
+202419546,"174 Yasmin Ali Cres, Winnipeg, R3Y 1S3",Waverley West,699900,4,3,2040,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.79568,-97.17588
+202419547,"47 Fairfield Lane, New Bothwell, R0A 1C0",R16,419900,3,3,1643,"Residential, Single Family Detached",Royal LePage Riverbend Realty,49.58961,-96.88916
+202419548,"50 Middlehurst Cres, Winnipeg, R2G 4C9",Algonquin Estates,539900,3,4,1886,"Residential, Single Family Detached",RE/MAX Associates,49.94163,-97.04193
+202419550,"19 Lakeshore Dr, St Malo, R0A 1T0",R17,249900,4,1,945,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.31808,-96.91687
+202419552,"4 Raden Dr, Headingley, R4J 1A5",Headingley South,498900,3,2,1830,"Residential, Single Family Detached",Judy Lindsay Team Realty,49.86852,-97.41291
+202419554,"308 Lansdowne Ave, Winnipeg, R2W 0G8",West Kildonan,299900,5,2,1046,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.92985,-97.12845
+202419555,"2 Vale Pl, Winnipeg, R2J 3N8",Southdale,519900,3,4,1952,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.84278,-97.05996
+202419557,"254 St Alphonse Ave, Ste Anne, R5H 1G4",R06,399900,3,2,1390,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.67176,-96.65064
+202419558,"21 Chancellor Bay, Mitchell, R5G 0A7",R16,439900,4,3,1212,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.53824,-96.76247
+202419559,"702 - 280 Amber Trl, Winnipeg, R2P 1T6",Amber Trails,299000,2,2,1060,"Condominium, Townhouse",eXp Realty,49.96418,-97.16396
+202419564,"98 Waldport Bay, Winnipeg, R3X 0B3",Royalwood,629900,5,3,2314,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.82859,-97.07685
+202419567,"85 Nemy Cres, Winnipeg, R2Y 0K6",Crestview,239900,3,1,1120,"Residential, Single Family Attached",Century 21 Bachman & Associates,49.89868,-97.31047
+202419568,"103 Autumnwood Dr, Gimli, R0C 1B0",Gimli,549900,4,3,2124,"Residential, Single Family Detached",Interlake Real Estate,50.62571,-97.00376
+202419569,"481 Pritchard Ave, Winnipeg, R2W 2J9",North End,129900,3,1,807,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.91623,-97.14397
+202419570,"204 - 1305 Grant Ave, Winnipeg, R3M 1Z7",Crescentwood,182900,1,1,824,"Condominium, Apartment",Royal LePage Dynamic Real Estate,49.85631,-97.1746
+202419571,"1008 - 388 Pipeline Rd, Winnipeg, R2P 2T4",Amber Trails,339000,2,2,1178,"Condominium, Townhouse",WinMax Real Estate Ltd.,49.9601,-97.16115
+202419572,"13 Ateah Rd, Victoria Beach, R0E 2C0",Victoria Beach,399000,3,3,1600,"Residential, Single Family Detached",Coldwell Banker Park Avenue Real Estate,50.6996,-96.54186
+202419573,"70 Dallner Bay, Winnipeg, R3X 0B8",Royalwood,544900,3,2,1610,"Residential, Single Family Detached",Century 21 Carrie Realty,49.82976,-97.07357
+202419574,"11 Orford Cres, Winnipeg, R2N 3N9",River Park South,522500,5,4,1960,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.80361,-97.09357
+202419576,"991 Beach Ave, Winnipeg, R2L 1E5",East Kildonan,449900,5,3,2065,"Residential, Duplex",RE/MAX EXECUTIVES REALTY,49.90274,-97.07758
+202419583,"379 Oakview Ave, Winnipeg, R2K 0S4",East Kildonan,329900,3,2,1144,"Residential, Single Family Detached",Element Realty Inc.,49.92733,-97.09438
+202419584,"657 Oakland Ave, Winnipeg, R2G 0B9",North Kildonan,349800,4,2,1032,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.93152,-97.07491
+202419585,"577 Johnson Ave, Winnipeg, R2L 1A9",East Kildonan,224900,3,1,1144,"Residential, Single Family Detached",Vivico Real Estate Inc.,49.90766,-97.0944
+202419587,"31 Barnes Ave, West St Paul, R2V 5G6",West St Paul,474900,3,0,1395,"Residential, Single Family Attached",Royal LePage Top Producers Real Estate,49.97323,-97.08795
+202419588,"253 Eagleview Rd, Winnipeg, R3Y 0M7",Bridgwater Lakes,562000,3,3,1936,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.79495,-97.21152
+202419589,"6 - 25 Shorehill Dr, Winnipeg, R3X 0A9",Royalwood,408900,2,3,1592,"Condominium, Single Family Attached",Century 21 Bachman & Associates,49.83986,-97.08181
+202419590,"65 Sundial Cres, Winnipeg, R2N 5K4",River Park South,435900,4,2,925,"Residential, Single Family Detached",RE/MAX Associates,49.81973,-97.08791
+202419591,"85 Frontier Rd, Beaconia, R0E 0B0",Island Beach,305000,3,1,815,"Residential, Single Family Detached",RE/MAX One Group,50.45512,-96.57191
+202419595,"16 - 185 Harrow St, Winnipeg, R3N 0M5",Crescentwood,144900,2,1,633,"Condominium, Apartment",Royal LePage Prime Real Estate,49.86956,-97.16527
+202419596,"13 Fifth Ave, Grand Beach, R0E 0T0",Grand Beach Provincial Park,139900,3,1,640,"Residential, Single Family Detached",RE/MAX One Group,-36.60115,174.70374
+202419598,"97 Hogan's Al, Sandy Hook, R0C 2W0",Sandy Hook Golf Course,499900,5,3,1672,"Residential, Single Family Detached",Right Choice Realty,50.54843,-96.9852
+202419599,"65 Tomlinson Ave, Winnipeg, R2K 3K8",Valley Gardens,329900,2,2,832,"Residential, Single Family Detached",Century 21 Advanced Realty,49.91955,-97.06356
+202419600,"80 Berry Hill Rd, Winnipeg, R3Y 2A6",Prairie Pointe,749900,3,3,1992,"Residential, Single Family Detached",RE/MAX performance realty,49.77754,-97.20075
+202419602,"124 Sie Cor Way, Schanzenfeld, R6W 0B6",R35,525000,5,4,3060,"Residential, Single Family Detached",The Property Brokers Real Estate Inc.,49.14286,-97.94486
+202419603,"165 1st St, Niverville, R0A 1E0",R07,649900,4,2,1590,"Residential, Single Family Detached",Real Broker,49.60496,-97.04055
+202419604,"186 Grand Marais Blvd, Grand Marais, R0E 0T0",Grand Marais,449900,1,2,1152,"Residential, Single Family Detached",RE/MAX One Group,50.54693,-96.6294
+202419605,"19 - 120 Scotswood Dr, Winnipeg, R3R 2X9",Charleswood,179900,1,1,730,"Condominium, Apartment",Coldwell Banker Preferred Real Estate,49.85894,-97.29286
+202419608,"93 Fairway Dr, Morden, R6M 0B2",R35,599900,3,3,1916,"Residential, Single Family Detached",Crocus Real Estate,49.19304,-98.10604
+202419610,"18 3rd Ave, Grand Beach, R0E 0T0",Grand Beach Provincial Park,249900,3,1,745,"Residential, Single Family Detached",RE/MAX One Group,-38.19158,147.41846
+202419612,"118 Hiddleston Cres, Winnipeg, R2P 0S1",Maples,439900,5,3,1384,"Residential, Single Family Detached",COLDWELL BANKER ELITE REALTY,49.95821,-97.16868
+202419613,"10 Mancere Pl, West St Paul, R2V 4E9",West St Paul,495000,3,3,1570,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.96689,-97.07692
+202419617,"384 Edison Ave, Winnipeg, R2G 0L8",North Kildonan,299900,2,2,1045,"Residential, Single Family Detached",Coldwell Banker Park Avenue Real Estate,49.93836,-97.08038
+202419618,"44 Mirey Creek Dr, St Andrews, R1A 2S6",R13,579000,3,3,1955,"Residential, Single Family Detached",Interlake Real Estate,50.08504,-96.96703
+202419619,"B - 52 Rougeau Ave, Winnipeg, R2C 3Z6",Mission Gardens,239900,3,2,1062,"Residential, Single Family Attached",Real Broker,49.8906,-97.04005
+202419620,"306 Kerby Ave, Miami, R0G 0C2",R35,165000,2,2,1167,"Residential, Single Family Detached",The Property Brokers Real Estate Inc.,49.37188,-98.24163
+202419621,"71 Crystal Ave, Winnipeg, R2M 0P8",St Vital,615000,5,4,1465,"Residential, Duplex",Royal LePage Prime Real Estate,49.85674,-97.10786
+202419625,"14 - 151 Roslyn Rd, Winnipeg, R3L 0G7",Osborne Village,149900,1,1,689,"Condominium, Apartment",RE/MAX PROFESSIONALS,49.87995,-97.14894
+202419628,"114 - 110 Creek Bend Rd, Winnipeg, R2N 0H3",Dakota Crossing,339000,2,2,1061,"Condominium, Apartment",Royal LePage Prime Real Estate,49.81043,-97.07199
+202419630,"239 Kingshead Rd, Niverville, R0A 0A1",The Highlands,359900,3,2,1440,"Residential, Single Family Detached",Real Broker,42.44395,-73.6584
+202419631,"239 Tufnell Dr, Winnipeg, R2N 1K4",River Park South,369900,3,2,930,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.81609,-97.105
+202419634,"51 Alora Cove, Winnipeg, R3R 4A3",Charleswood,644900,3,3,1861,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.84195,-97.32205
+202419636,"422 Granite Grove Rd, Winnipeg, R3Y 2K3",Prairie Pointe,564900,4,3,1859,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.77376,-97.20058
+202419638,"34 Fossil Creek Cres, Winnipeg, R3Y 2K1",Prairie Pointe,564900,4,3,1765,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.77483,-97.20179
+202419639,"219 Gordon Ave, Winnipeg, R2L 0L7",Elmwood,299990,3,2,1180,"Residential, Single Family Detached",Century 21 Advanced Realty,49.91108,-97.11238
+202419640,"83 Hamilton Meadows Dr, Winnipeg, R2Y 2K1",Crestview,584900,3,4,1965,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.89717,-97.28677
+202419641,"18 Hunter Cres, Pinawa, R0E 1L0",R18,329000,3,2,1120,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,50.14291,-95.89117
+202419642,"34 Berard Way, Winnipeg, R3V 1N4",St Norbert,299900,2,1,858,"Residential, Single Family Detached",RE/MAX Performance Realty,49.77222,-97.16199
+202419645,"17 Benson Blvd, MacDonald (town), R4G 0A2",RM of MacDonald,799900,5,3,2174,"Residential, Single Family Detached",Square Meter Realty,49.77172,-97.32991
+202419646,"28 Highcastle Cres, Winnipeg, R2N 3V7",River Park South,489900,4,3,1244,"Residential, Single Family Detached",Maximum Realty,49.80675,-97.08518
+202419649,"83 Cranston Pl, Winnipeg, R3Y 0Z5",Prairie Pointe,688800,4,3,1889,"Residential, Single Family Detached",Square Meter Realty,49.7798,-97.20082
+202419652,"352 Castlebury Meadows Dr, Winnipeg, R2R 2X6",Castlebury Meadows,469000,4,3,1093,"Residential, Single Family Attached",eXp Realty,49.95874,-97.21652
+202419653,"39 Barnes Ave, West St Paul, R2V 5G3",West St Paul,479900,3,3,1462,"Residential, Single Family Attached",eXp Realty,49.97323,-97.08795
+202419655,"111 Fossil Creek Cres, Winnipeg, R3Y 2J9",Prairie Pointe,569900,4,3,1859,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.77483,-97.20179
+202419657,"364 Whitehorn Cres, Winnipeg, R3X 0W9",Bonavista,464640,3,3,1389,"Residential, Single Family Detached",RE/MAX Associates,49.82079,-97.062
+202419660,"430 Woodydell Ave, Winnipeg, R2M 4N5",Meadowood,399900,3,2,1077,"Residential, Single Family Detached",Stratten Gates Real Estate Ltd.,49.82854,-97.09267
+202419663,"341 Temple Ave, Winnipeg Beach, R0C 3G0",Winnipeg Beach,149900,2,1,934,"Residential, Single Family Detached",RE/MAX Associates,50.49897,-96.97778
+202419668,"320 Main St, Teulon, R0C 3B0",Teulon,195000,2,1,1150,"Residential, Mobile Home",L. J. Baron Realty,50.37441,-97.26348
+202419669,"2240 Gallagher Ave, Winnipeg, R3E 1T8",Weston,239900,2,2,1116,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.91917,-97.18499
+202419671,"561 Municipal Rd, Winnipeg, R3F 1J2",Charleswood,449900,3,2,1314,"Residential, Vacant Land with Building",Royal LePage Dynamic Real Estate,49.85879,-97.30146
+202419673,"15 Gullane St, Niverville, R0A 0A1",The Highlands,379900,3,2,1348,"Residential, Single Family Detached",Real Broker,49.6039,-97.05941
+202419674,"600 - 565 Corydon Ave, Winnipeg, R3M 2R8",Crescentwood,134900,1,1,725,"Condominium, Apartment",RE/MAX PROFESSIONALS,49.87301,-97.14675
+202419676,"19 Lakeside Dr, Winnipeg, R3T 4M4",Waverley Heights,689900,7,4,1962,"Residential, Single Family Detached",Keller Williams Real Estate Services,49.80856,-97.16687
+202419677,"40 Ruby St, Winnipeg, R3G 2C8",Wolseley,319900,3,1,1255,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.87841,-97.17307
+202419679,"638 Burrows Ave, Winnipeg, R2W 2A7",North End,314900,4,3,1364,"Residential, Duplex",Lifestyles Real Estate Ltd.,49.92029,-97.14882
+202419681,"145 Athlone Dr, Winnipeg, R3J 3L3",Grace Hospital,439900,4,3,1488,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.88689,-97.27529
+202419682,"21 Sheila Dr, New Bothwell, R0A 1C0",R16,319900,4,2,902,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.58961,-96.88916
+202419686,"45 Timber Lane, St Clements, R1C 0H4",Pineridge Trailer Park,224900,2,2,1315,"Residential, Mobile Home",Royal LePage Prime Real Estate,50.00158,-96.94851
+202419688,"9137 60e Rd, Piney Rm, R0A 1K0",R17,299900,3,1,1250,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.13572,-96.09338
+202419690,"376 Magnus Ave, Winnipeg, R2W 2C7",North End,99900,4,2,1468,"Residential, Single Family Detached",SkyOne Realty Ltd.,49.91625,-97.13846
+202419692,"105 Normandy Dr, Winnipeg, R2Y 1J2",Crestview,399900,4,2,1547,"Residential, Single Family Detached",Real Broker,49.89267,-97.305
+202419694,"466 Burrows Ave, Winnipeg, R2W 2A1",North End,179900,5,2,2120,"Residential, Single Family Detached",SkyOne Realty Ltd.,49.91794,-97.14153
+202419698,"305 Zimmerman Dr, Winnipeg, R3R 4A5",Charleswood,512900,3,3,1657,"Residential, Single Family Attached",Real Broker,49.83995,-97.32212
+202419699,"517 Pacific Ave, Selkirk, R1A 0P3",R14,199900,2,1,550,"Residential, Single Family Detached",Royal LePage Prime Real Estate,50.14218,-96.8855
+202419701,"326 Kelvin Blvd, Winnipeg, R3P 0H9",Tuxedo,1899900,5,4,2500,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.86465,-97.22346
+202419703,"227 Bear Creek Bay, Winnipeg, R3Y 2H5",Prairie Pointe,449900,3,3,1387,"Residential, Single Family Attached",RE/MAX performance realty,49.76933,-97.19688
+202419704,"502 Arlington St, Winnipeg, R3G 1Z4",West End,219900,3,2,1120,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.89226,-97.16897
+202419705,"308 - 350 7th St, Winkler, R6W 0R7",R35,232900,1,1,753,"Condominium, Apartment",Choice Realty Ltd.,49.1825,-97.942
+202419708,"52 Pinegrove Ave, Dunnottar, R0C 2B0",Matlock,354900,1,1,1204,"Residential, Single Family Detached",Right Choice Realty,50.44538,-96.963
+202419709,"819 Waverley St, Winnipeg, R3M 3K9",River Heights South,549900,4,3,1396,"Residential, Single Family Detached",Real Broker,49.8538,-97.17867
+202419710,"567 Talbot Ave, Winnipeg, R2L 0R6",East Elmwood,249900,3,2,1354,"Residential, Single Family Detached",Keller Williams Real Estate Services,49.90588,-97.09963
+202419712,"36125 52 Path, Steinbach, R5G 1N5",R16,394900,4,2,2036,"Residential, Single Family Detached",Century 21 Gold Key Realty Ltd.,49.52573,-96.68393
+202419713,"305 - 700 Allegheny Dr, Winnipeg, R3T 4E4",Fort Richmond,349900,3,2,1409,"Condominium, Apartment",Manitopia Realty Ltd.,49.79676,-97.15121
+202419714,"70 Sunstone Bay, Winnipeg, R3Y 0N5",South Pointe,679900,5,3,2322,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.77739,-97.18387
+202419719,"19 Briarlynn Rd, Winnipeg, R3T 5Z9",Richmond West,569900,5,4,1919,"Residential, Single Family Detached",RE/MAX One Group,49.79064,-97.16589
+202419721,"1023 Beach Ave, Winnipeg, R2L 1E5",East Kildonan,289900,4,2,1060,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.90245,-97.07597
+202419722,"929 Kilkenny Dr, Winnipeg, R3T 3Z4",Fort Richmond,559900,3,4,1887,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.7896,-97.13854
+202419724,"12 Berrydale Ave, Winnipeg, R2M 1L9",St Vital,549900,5,3,1332,"Residential, Single Family Detached",RE/MAX PROFESSIONALS,49.84201,-97.11175
+202419726,"104 - 10 Hill Grove Pt, Winnipeg, R3Y 0V6",Bridgwater Centre,305000,2,1,1037,"Condominium, Apartment",Monopoly Realty,49.79884,-97.1922
+202419727,"19 Bracken Falls Dr, White Mud Falls, R0E 1A0",R28,185000,3,1,800,"Residential, Single Family Detached",Evergreen Realty,50.46546,-96.06407
+202419732,"87 Petriw Bay, Winnipeg, R2R 1K2",Meadows West,369900,5,2,1030,"Residential, Single Family Detached",eXp Realty,49.94741,-97.19613
+202419733,"3 Main St, Tolstoi, R0A 2E0",R17,139900,2,1,788,"Residential, Single Family Detached",Real Broker,49.60597,-97.04777
+202419734,"164 Park West Dr, Winnipeg, R3Y 0W2",Bridgwater Centre,506666,3,3,1730,"Residential, Single Family Attached",Square Meter Realty,49.79635,-97.19973
+202419736,"1408 Somerville Ave, Winnipeg, R3T 1C2",West Fort Garry,379900,3,1,965,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.84416,-97.1621
+202419738,"3302 - 197 Victor Lewis Dr, Winnipeg, R3P 2A4",Linden Woods,228900,3,2,940,"Condominium, Apartment",Vanguard Real Estate Ltd.,49.84507,-97.18529
+202419740,"39 Third St, Kleefeld, R0A 0V0",R16,327900,4,2,1007,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.50119,-96.87782
+202419741,"272 Munroe Ave, Winnipeg, R2K 1G9",East Kildonan,289900,2,1,1146,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.92049,-97.1061
+202419742,"320 Bridge Lake Dr, Winnipeg, R3Y 0R2",Bridgwater Lakes,679900,4,3,2345,"Residential, Single Family Detached",Square Meter Realty,49.79292,-97.20542
+202419744,"2207 - 55 Nassau St, Winnipeg, R3L 2G8",Osborne Village,219900,2,2,1050,"Condominium, Apartment",Century 21 Carrie Realty,49.87901,-97.14998
+202419745,"1006 - 25 Tim Sale Dr, Winnipeg, R3Y 0P7",South Pointe,319900,2,2,910,"Condominium, Townhouse",SkyOne Realty Ltd.,49.78313,-97.17498
+202419746,"53 Castlerock Cove, Steinbach, R5G 2J5",Stone Bridge on the Park,449900,5,3,1562,"Residential, Single Family Detached",Royal LePage Riverbend Realty,49.53642,-96.67647
+202419747,"300 Oak Lawn Rd, Winnipeg, R3Y 0H7",Bridgwater Forest,729900,5,4,2181,"Residential, Single Family Detached",SkyOne Realty Ltd.,49.80121,-97.19261
+202419749,"34 Hammond Rd, Winnipeg, R3R 1M1",Westdale,364900,3,2,1134,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.85916,-97.3128
+202419750,"1 Tamarack Dr, West St Paul, R2E 0E5",West St Paul,719900,3,2,1650,"Residential, Single Family Detached",Century 21 Bachman & Associates,44.93757,-92.941
+202419753,"475 Cathedral Ave, Winnipeg, R2W 0Y2",North End,239900,3,1,1192,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.92743,-97.13695
+202419754,"500 Lindsay St, Winnipeg, R3N 1H5",River Heights,389900,3,1,980,"Residential, Single Family Detached",The Glen Williams Team,49.86413,-97.19386
+202419755,"168 Morava Way, Winnipeg, R2P 1K7",Amber Trails,649900,5,3,2073,"Residential, Single Family Detached",RE/MAX One Group,49.96749,-97.1862
+202419756,"33 Fifth St, MacDonald (town), R0G 2P0",RM of MacDonald,589900,3,3,1600,"Residential, Single Family Detached",Real Broker,49.77529,-97.61475
+202419757,"299 Benn Ave, Winnipeg, R2V 4T7",Riverbend,499900,3,3,1492,"Residential, Single Family Detached",L. J. Baron Realty,49.96381,-97.08734
+202419760,"26 Summerscales Pl, Winnipeg, R2P 0H3",Highland Pointe,629990,4,3,1828,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.97098,-97.12338
+202419761,"140 Evergreen St, Beausejour, R0E 0C0",R03,398000,2,2,1032,"Residential, Single Family Detached",Century 21 Sun Country Realty,50.05806,-96.51593
+202419762,"16 Catherine Waytiuk Cove, East Selkirk, R0E 0M0",East Selkirk,599900,4,3,1327,"Residential, Single Family Detached",Judy Lindsay Team Realty,38.89037,-77.03196
+202419766,"863 Beaverhill Blvd, Winnipeg, R2J 3B5",Southdale,499900,4,3,1234,"Residential, Single Family Detached",RE/MAX Performance Realty,49.84793,-97.06485
+202419767,"18102 Pr 210 Hwy, Woodridge, R0A 2N0",R17,139900,2,1,960,"Residential, Single Family Detached",Royal LePage Riverbend Realty,49.28175,-96.15417
+202419768,"6 Loni St, Gimli, R0C 1B0",Loni Beach,169900,2,1,640,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,50.64032,-96.98507
+202419774,"15 Frances Dr, Morden, R6M 1R6",R35,449000,4,2,1288,"Residential, Single Family Detached",Crocus Real Estate,49.19855,-98.10963
+202419775,"147 Romance Lane, Winnipeg, R2C 5S2",Canterbury Park,649900,4,3,2064,"Residential, Single Family Detached",RE/MAX One Group,49.89391,-96.96663
+202419776,"25 Lake St, Oak Point, R0C 2J0",St Laurent,444900,4,3,2300,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,50.50348,-98.03362
+202419777,"30 Dacor Dr, La Broquerie, R0A 0W0",R16,429900,4,2,2090,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.52394,-96.51051
+202419779,"665 26 Hwy, St Francois Xavier, R4L 1A2",St Francois Xavier,349900,3,1,1600,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.88925,-97.50533
+202419782,"511 Tremblay St, Winnipeg, R2J 0N5",Norwood,599900,5,3,1920,"Residential, Duplex",RE/MAX PROFESSIONALS,49.87953,-97.10262
+202419783,"28 Second St, Swan Lake, R0G 2S0",R39,85000,3,1,1185,"Residential, Single Family Detached",Royal LePage Legacy Realty,49.41136,-98.78795
+202419785,"221 Park Ave, Winnipeg Beach, R0G 3G0",Winnipeg Beach,349900,3,1,1584,"Residential, Single Family Detached",Royal LePage - JMB & Assoc.,50.5066,-96.97325
+202419788,"41 Kingsway Ave, Winnipeg, R3M 0G2",Crescentwood,699900,4,4,2895,"Residential, Single Family Detached",Don Cook Real Estate Ltd.,49.87463,-97.16244
+202419791,"18 N Rd, Woodridge, R0A 1K0",R16,299900,1,0,512,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,-27.63515,153.10242
+202419795,"659 Minto St, Winnipeg, R3G 2R2",West End,155000,2,1,787,"Residential, Single Family Detached",eXp Realty,49.88683,-97.1802
+202419799,"12 Oak Ave, Grand Marais, R0E 0T0",Grand Marais,169900,2,1,900,"Residential, Single Family Detached",Royal LePage Prime Real Estate,50.54629,-96.62861
+202419800,"45078 Spur Rd, Hadashville, R0E 0X0",Hadashville,349900,3,1,940,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.68887,-95.90829
+202419802,"101 F - 1575 Roblin Blvd, Winkler, R6W 0H5",R35,312900,3,2,1407,"Condominium, Apartment",The Property Brokers Real Estate Inc.,49.18876,-97.93329
+202419806,"736 Valour Rd, Winnipeg, R3G 3B2",West End,269900,3,2,1100,"Residential, Single Family Detached",Royal LePage Riverbend Realty,49.88756,-97.18879
+202419807,"22 Kimberley Pl, St Andrews, R1A 2V9",Larters,349900,3,2,1620,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,50.04334,-96.99385
+202419808,"40 Tamarack Lane, Clandeboye, R0C 0P0",R13,544900,3,2,1637,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,50.24207,-96.97496
+202419809,"17 1st St, Clear Lake, R0J 1N0",R36,359900,3,1,768,"Residential, Single Family Detached",WENDY PETERS,44.83986,-96.68344
+202419810,"1099 Dominion St, Winnipeg, R3E 2P3",Sargent Park,319900,3,1,889,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.89888,-97.17722
+202419811,"1205 Fillmore Rd, St Andrews, R0C 0P0",R13,439900,5,2,1440,"Residential, Single Family Detached",Interlake Real Estate,50.22614,-96.90999
+202419812,"160 Mountain Ave, Darlingford, R0G 0L0",RM of Pembina,244900,2,2,1761,"Residential, Single Family Detached",The Property Brokers Real Estate Inc.,49.20514,-98.37769
+202419813,"175 Penfold Cres, Winnipeg, R2J 1S3",Windsor Park,429900,4,3,1102,"Residential, Single Family Detached",RE/MAX performance realty,49.85678,-97.05291
+202419821,"191 Wyndham Estate Dr, Steinbach, R5G 0S6",Woodlawn,499900,3,2,1493,"Residential, Single Family Detached",Royal LePage Riverbend Realty,49.52629,-96.65911
+202419823,"20 Aspen Ave, Niverville, R0A 1E0",R07,419900,4,2,1318,"Residential, Single Family Detached",Keller Williams Real Estate Services,49.59983,-97.04654
+202419827,"973 Dakota St, Winnipeg, R2M 5R8",St Vital,329999,2,2,872,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.82528,-97.1026
+202419828,"161 Evanson St, Winnipeg, R3G 2A2",Wolseley,299900,3,1,1160,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.88225,-97.17062
+202419829,"192 Margate Rd, Winnipeg, R2P 1E5",Maples,399900,3,2,1088,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.95192,-97.18148
+202419830,"1292 Fernbank Ave, Winnipeg, R2V 5E5",Highland Pointe,409900,3,3,1250,"Residential, Townhouse",Century 21 Carrie Realty,49.9625,-97.09066
+202419832,"302 - 212 Watson St, Winnipeg, R2P 1Z6",Seven Oaks Crossings,279900,2,2,1330,"Condominium, Apartment",Amenity Real Estate Ltd.,49.95331,-97.15277
+202419834,"1182 Dudley Ave, Winnipeg, R3M 1S9",Crescentwood,262500,2,1,700,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.85956,-97.17035
+202419836,"5 Sparrowhawk Pl, Winnipeg, R3R 4A3",Charleswood,699900,3,3,1938,"Residential, Single Family Detached",Real Broker,49.84105,-97.32196
+202419837,"85 Piney Cr, Winnipeg, R2P 1E8",Maples,399900,3,2,1076,"Residential, Single Family Detached",RE/MAX performance realty,49.95747,-97.18266
+202419838,"29 Meadowland Dr, Winnipeg, R2R 2R5",Meadows West,564900,6,4,2267,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.9544,-97.20462
+202419842,"215 - 89 Creek Bend Rd, Winnipeg, R2N 0K7",River Park South,349900,2,2,1134,"Condominium, Apartment",RE/MAX performance realty,49.81163,-97.07204
+202419843,"509 Proteau Dr, St Adolphe, R5A 1A5",R07,434900,3,3,1300,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.67888,-97.11084
+202419844,"320 Mandeville St, Winnipeg, R3J 2G9",Deer Lodge,309900,2,1,897,"Residential, Single Family Detached",Canadian Corporate R. E. Service,49.88202,-97.23173
+202419845,"20 Louise St, St Clements, R1C 0H3",Pineridge Trailer Park,219900,3,2,1356,"Residential, Mobile Home",Royal LePage Dynamic Real Estate,50.00265,-96.95031
+202419847,"1075 Bay Rd, St Andrews, R1A 3L1",R13,665000,5,3,1660,"Residential, Single Family Detached",RE/MAX Associates,50.0942,-97.05951
+202419848,"757 Government Ave, Winnipeg, R2K 1X5",East Kildonan,229900,3,2,1576,"Residential, Single Family Detached",RE/MAX Performance Realty,49.91357,-97.08041
+202419849,"735 Park Blvd, Winnipeg, R3P 1B7",Tuxedo,1895000,4,5,4022,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.84836,-97.22196
+202419852,"1120 Hector Bay, Winnipeg, R3M 3S1",Crescentwood,439000,4,2,1050,"Residential, Single Family Detached",Real Broker,49.85604,-97.16358
+202419853,"113 Inkster Blvd, Winnipeg, R2W 0J5",Scotia Heights,234900,3,2,1334,"Residential, Single Family Detached",Real Broker,49.92587,-97.11927
+202419855,"11 Sandy Links Lane, Sandy Hook, R0C 2W0",Sandy Hook Golf Course,369000,3,2,1224,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,50.5457,-96.98287
+202419858,"27 Moonlight Dr, Woodridge, R0A 2N0",R17,299900,4,2,1625,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.28175,-96.15417
+202419859,"425 Dufferin Ave, Selkirk, R1A 1C4",R13,329900,3,1,1202,"Residential, Single Family Detached",Royal LePage Prime Real Estate,50.14904,-96.87452
+202419867,"70153 Roscoe Rd 26e Rd, Springfield Rm, R5M 0E6",RM of Springfield,1099000,4,3,2700,"Residential, Single Family Detached",The Property Exchange Group Inc.,50.0119,-96.7698
+202419868,"47 Mcadam Ave, Winnipeg, R2W 0A2",Scotia Heights,329900,5,3,1600,"Residential, Single Family Detached",RE/MAX Performance Realty,49.92736,-97.11409
+202419869,"404 Yale Ave, Winnipeg, R2C 0J5",East Transcona,174900,2,1,648,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.89668,-96.99521
+202419870,"564 Mcgee St, Winnipeg, R3G 1N2",West End,119900,3,1,1168,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.89574,-97.16066
+202419872,"88 Girdwood Cres, Winnipeg, R2K 3T5",East Kildonan,219900,3,2,1089,"Residential, Townhouse",Century 21 Sun Country Realty,49.90859,-97.06551
+202419873,"408 - 35 Valhalla Dr, Winnipeg, R2G 0G5",North Kildonan,179900,1,1,667,"Condominium, Apartment",Powell Property Group,49.94904,-97.0864
+202419874,"379 Hanover St, Steinbach, R5G 0G1",Woodlawn,224900,2,1,930,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.52642,-96.67852
+202419875,"15 Georgia Bay, Morden, R6M 0E3",R35,419900,5,2,1200,"Residential, Single Family Detached",Morden Realty Inc.,49.20373,-98.11957
+202419876,"513 Charleswood Rd, Winnipeg, R3R 1K5",Charleswood,419900,4,2,1090,"Residential, Single Family Detached",RE/MAX Performance Realty,49.86145,-97.30661
+202419877,"38053 3 Hwy, Pembina, R0G 0L0",RM of Pembina,449000,2,2,1048,"Residential, Single Family Detached",The Property Brokers Real Estate Inc.,49.20436,-98.37766
+202419878,"26 Manren Cres, Winnipeg, R2P 0N6",Maples,479999,5,4,2102,"Residential, Single Family Detached",Key-Move Realty Limited,49.95085,-97.16351
+202419879,"70 Gottfried Pt, Winnipeg, R2C 5V3",Canterbury Park,559900,4,3,1636,"Residential, Single Family Detached",Century 21 Carrie Realty,49.89038,-96.96361
+202419885,"223 - 325 Park East Dr, Winnipeg, R3Y 1Z9",Bridgwater Centre,365000,3,3,1262,"Condominium, Townhouse",I.H.S Realty Ltd.,49.79231,-97.1965
+202419890,"72 7th Ave, Gimli, R0C 1B0",Gimli,389900,3,1,1221,"Residential, Single Family Detached",Interlake Real Estate,50.54203,-96.98665
+202419894,"4634 Roblin Blvd, Winnipeg, R3R 0G5",Charleswood,530000,4,2,1500,"Residential, Single Family Detached",Real Broker,49.85816,-97.27943
+202419898,"266 Desrosiers Dr, Winnipeg, R2C 5T5",Canterbury Park,584900,4,3,1869,"Residential, Single Family Detached",Century 21 Carrie Realty,49.89387,-96.96074
+202419901,"268 Park East Dr, Winnipeg, R3Y 0Y5",Bridgwater Centre,499900,3,4,1492,"Residential, Townhouse",SkyOne Realty Ltd.,49.79314,-97.19564
+202419903,"21 Aston Cove, Steinbach, R5G 2P2",R16,699900,5,3,2780,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.52577,-96.68929
+202419904,"1 - 3886 Ness Ave, Winnipeg, R2Y 0H2",Crestview,259900,3,2,1110,"Condominium, Townhouse",RE/MAX Performance Realty,49.88868,-97.32151
+202419905,"1501 Pritchard Ave, Winnipeg, R2X 2H6",Shaughnessy Heights,237900,2,1,700,"Residential, Single Family Detached",RE/MAX performance realty,49.92932,-97.18599
+202419906,"126 Oshanski Pl, West St Paul, R2E 0E5",West St Paul,724900,3,2,1863,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.96336,-97.02566
+202419910,"826 Turnberry Cove, Niverville, R0A 0A1",The Highlands,639900,3,2,1523,"Residential, Single Family Detached",Real Broker,49.5459,-96.80787
+202419912,"78 Consulate Rd, Winnipeg, R2V 3L2",Parkway Village,459900,3,3,1981,"Residential, Single Family Detached",RE/MAX One Group,49.95082,-97.13349
+202419916,"82 Tulane Bay, Winnipeg, R3T 2T7",Fort Richmond,439900,5,2,1040,"Residential, Single Family Detached",I.H.S Realty Ltd.,49.80107,-97.14135
+202419917,"110 Claremont Dr, Niverville, R0A 0A2",Fifth Avenue Estates,579900,5,3,1415,"Residential, Single Family Detached",RE/MAX One Group,49.59251,-97.03388
+202419919,"518 Rosedale Ave, Winnipeg, R3L 1M3",Lord Roberts,319900,2,2,1040,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.85728,-97.14068
+202419921,"23 Mockingbird Lane, Winnipeg, R2J 3T7",Waterside Estates,1499900,4,4,2891,"Residential, Single Family Detached",Real Broker,49.88367,-97.03508
+202419922,"6 Bender Bay, Winnipeg, R2P 2M8",Maple Glen,375000,3,2,906,"Residential, Single Family Detached",Lifestyles Real Estate Ltd.,49.94203,-97.16061
+202419924,"570 Forbes Rd, Winnipeg, R2N 4B1",South St Vital,924900,5,3,1658,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.774,-97.11553
+202419925,"14 Ivy Row, West St Paul, R4A 4A8",West St Paul,449000,3,3,1438,"Residential, Single Family Attached",Maximum Realty,49.98048,-97.07689
+202419928,"1 - 370 Lodge Ave, Winnipeg, R3J 2Z5",Silver Heights,429900,3,3,1080,"Condominium, Single Family Attached",RE/MAX EXECUTIVES REALTY,49.87995,-97.26014
+202419929,"285 Wallace Ave, East St Paul, R2E 0B1",East St Paul,1190000,3,4,3600,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.96889,-97.05877
+202419931,"135 Bell Gardens Cove, Winnipeg, R3Y 2E8",Prairie Pointe,499900,3,3,1468,"Residential, Single Family Detached",RE/MAX performance realty,49.7746,-97.19635
+202419932,"311 - 175 Pulberry St, Winnipeg, R2M 3X6",Pulberry,179900,2,1,812,"Condominium, Apartment",Royal LePage Prime Real Estate,49.83434,-97.11757
+202419938,"27 Parasiuk Pl, Winnipeg, R3W 1G1",Harbour View South,419900,4,2,870,"Residential, Single Family Detached",Real Broker,49.9202,-97.04669
+202419940,"65 Godard St, Richer, R0E 1S0",R06,289900,3,2,1288,"Residential, Single Family Detached",Sutton Group - Kilkenny Real Estate,49.66171,-96.44829
+202419942,"652 Mulvey Ave, Winnipeg, R3M 1H5",Crescentwood,389900,3,2,1392,"Residential, Single Family Detached",Keller Williams Real Estate Services,49.86919,-97.14945
+202419947,"18 Mitchelson Way, Winnipeg, R2G 4E1",Algonquin Estates,583000,3,4,1952,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.94298,-97.04338
+202419952,"222 2nd Ave, Winnipeg Beach, R0C 3G0",Winnipeg Beach,249000,3,1,990,"Residential, Single Family Detached",Interlake Real Estate,50.51522,-96.97379
+202419953,"103 - 317 Edison Ave, Winnipeg, R2G 0L9",North Kildonan,154900,2,1,701,"Condominium, Apartment",Century 21 Bachman & Associates,49.93936,-97.08342
+202419955,"10 Daylan Marshall Gate, Winnipeg, R2P 1X8",Amber Gates,467000,3,3,1508,"Residential, Single Family Attached",COLDWELL BANKER ELITE REALTY,49.96142,-97.15093
+202419957,"118 Vista Ave, Winnipeg, R2M 4Y4",St Vital,519900,3,3,1510,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.82227,-97.10733
+202419958,"214 Wexford St, Winnipeg, R3R 0R9",Charleswood,224900,2,1,899,"Residential, Single Family Detached",Real Broker,49.8676,-97.25209
+202419959,"62 Inglis St, Winnipeg, R2R 0X7",Tyndall Park,424900,4,3,1204,"Residential, Single Family Detached",WinMax Real Estate Ltd.,49.93334,-97.20556
+202419962,"764 Home St, Winnipeg, R3E 2C6",West End,274900,3,2,1510,"Residential, Single Family Detached",eXp Realty,49.89937,-97.16715
+202419964,"19 Capricorn Pl, Winnipeg, R2G 2W3",All Season Estates,450000,4,2,1620,"Residential, Single Family Detached",Amenity Real Estate Ltd.,49.93604,-97.04502
+202419965,"270 Center Ave, Blumenort, R0A 0C0",R16,564900,3,3,1640,"Residential, Single Family Detached",Royal LePage Top Producers Real Estate,49.6043,-96.69854
+202419967,"86 Cole Blvd, Gimli Rm, R0C 0M0",Glen Bay,211900,3,1,895,"Residential, Single Family Detached",Century 21 Advanced Realty,50.76461,-96.98248
+202419968,"840 Ingersoll St, Winnipeg, R3G 2J8",West End,249900,3,1,940,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.89511,-97.17413
+202419972,"85 Firdale Ave, Grand Marais, R0E 0T0",Grand Marais,229900,3,1,858,"Residential, Single Family Detached",Real Broker,50.54514,-96.62556
+202419973,"131 Yellow Rail Cres, Winnipeg, R3R 3Z4",Charleswood,699900,4,3,2285,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.84424,-97.32223
+202419977,"135 Whooping Crane Dr, Winnipeg, R2V 5J1",Highland Pointe,509900,3,3,1486,"Residential, Single Family Detached",Century 21 Carrie Realty,49.96769,-97.11699
+202419981,"122 Bell Gardens Cove, Winnipeg, R3Y 2E8",Prairie Pointe,459900,3,3,1335,"Residential, Single Family Attached",RE/MAX performance realty,49.7746,-97.19635
+202419986,"201 Browning Blvd, Winnipeg, R3K 0L2",Westwood,379900,4,2,1276,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.87248,-97.293
+202419991,"5 - 702 St Mary's Rd, Winnipeg, R3M 3N1",Elm Park,299900,2,3,1280,"Condominium, Townhouse",RE/MAX One Group,49.8568,-97.1123
+202419993,"29 Litz Pl, Winnipeg, R2G 0T9",Fraser's Grove,475000,4,2,1142,"Residential, Single Family Detached",Coldwell Banker Preferred Real Estate,49.94522,-97.08768
+202419994,"390 Kildonan Meadow Dr, Winnipeg, R3W 0C1",Kildonan Meadows,574900,3,3,1894,"Residential, Single Family Detached",Century 21 Advanced Realty,49.91312,-97.03165
+202419996,"70 Bunn's Grv, Winnipeg, R2G 3M6",Algonquin Park,599900,3,3,1776,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.95431,-97.06253
+202419999,"1075 Manitoba Ave, Winnipeg, R2X 0K5",North End,189900,3,1,1018,"Residential, Single Family Detached",RE/MAX Associates,49.9249,-97.16813
+202420002,"5 - 1700 St Mary's Rd, Winnipeg, R2N 1L8",St Vital,304900,2,2,1550,"Condominium, Townhouse",Royal LePage Top Producers Real Estate,49.81732,-97.11278
+202420004,"109 - 98 Brandt St, Steinbach, R5G 0V6",R16,139900,1,1,720,"Condominium, Apartment",Century 21 Gold Key Realty Ltd.,49.52331,-96.69146
+202420008,"22 Devonport Blvd, Winnipeg, R3P 0A9",Tuxedo,579900,3,2,2570,"Residential, Single Family Detached",eXp Realty,49.86256,-97.2126
+202420009,"6 Diamond St, Winnipeg, R2G 2J2",North Kildonan,469000,5,3,1043,"Residential, Single Family Detached",MaxPro Real Estate,49.9531,-97.06682
+202420012,"796 Simcoe St, Winnipeg, R3E 2C4",West End,329900,3,2,1391,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.90254,-97.16576
+202420016,"204 - 1355 Lee Blvd, Winnipeg, R3T 4X3",Fairfield Park,349900,3,3,1340,"Condominium, Townhouse",Coldwell Banker Preferred Real Estate,49.79568,-97.17146
+202420019,"114007 Burma Rd, Fraserwood, R0C 1A0",RM of Armstrong,115000,3,1,1190,"Residential, Single Family Detached",T Real Estate,50.64383,-97.21223
+202420023,"221 Hawthorne Ave, Winnipeg, R2G 0H5",North Kildonan,278500,2,1,1092,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.93949,-97.08987
+202420026,"24 - 100 Grande Pointe Meadows Blvd, Grande Pointe, R5A 1H5",Grande Pointe,409900,2,1,970,"Condominium, Single Family Detached",Real Broker,30.27486,-85.99568
+202420027,"28 - 100 Grande Pointe Meadows Blvd, Grande Pointe, R5A 0C8",Grande Pointe,419900,2,2,1015,"Condominium, Single Family Detached",Real Broker,30.27486,-85.99568
+202420030,"67 Duluth Bay, Winnipeg, R2J 1W6",Windsor Park,389900,4,3,1442,"Residential, Single Family Detached",RE/MAX Performance Realty,49.8594,-97.07363
+202420032,"858 Jubilee Ave, Winnipeg, R3L 1L2",Fort Rouge,294500,3,1,972,"Residential, Single Family Detached",Royal LePage Dynamic Real Estate,49.85401,-97.14708
+202420033,"60 Curry Dr, Headingley, R4H 0C7",Headingley North,2049900,5,5,2512,"Residential, Single Family Detached",Royal LePage Prime Real Estate,49.86979,-97.40145
+202420036,"82 Green Valley Bay, Winnipeg, R2K 3R8",Valley Gardens,334900,3,2,857,"Residential, Single Family Detached",RE/MAX EXECUTIVES REALTY,49.91663,-97.0677
+202420038,"642 Lanark St, Winnipeg, R3N 1M2",River Heights,459900,4,2,960,"Residential, Single Family Detached",Century 21 Bachman & Associates,49.85807,-97.19848
+202420042,"117 - 50 Philip Lee Dr, Winnipeg, R3W 0P7",Crocus Meadows,289900,2,2,922,"Condominium, Apartment",Century 21 Sun Country Realty,49.90896,-97.05459
+202420045,"75 Innsbruck Way, Winnipeg, R2P 2T7",Amber Trails,634900,4,3,2227,"Residential, Single Family Detached",Acclaim Real Estate,49.967,-97.16381
+202420051,"47 Cassin Cres, Winnipeg, R3X 1S6",Island Lakes,489900,4,3,1499,"Residential, Single Family Detached",RE/MAX Performance Realty,49.83786,-97.05453
+202420053,"106 - 540 Waterfront Dr, Winnipeg, R3V 0J1",Exchange District,189900,1,1,631,"Condominium, Other",Sutton Group - Kilkenny Real Estate,49.90253,-97.1272
+202420057,"51 Plover Pl, Winnipeg, R2V 5H8",Highland Pointe,574900,4,3,1636,"Residential, Single Family Detached",Century 21 Carrie Realty,49.96654,-97.11808

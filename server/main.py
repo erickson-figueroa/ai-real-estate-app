@@ -14,7 +14,6 @@ from scraper import get_average_price  # Import the scraper
 
 app = Flask(__name__)
 CORS(app)
-
 @app.route('/api/query', methods=['POST'])
 def process_query():
     data = request.json
