@@ -4,10 +4,8 @@ import './ListingResponse.css';
 import ListingResponseMap from '../ListingResponseMap/ListingResponseMap';
 import { formatPrice } from '../../utils/formatPrice.jsx'; // Import the utility function
 
-// Import images
-import fakeHouse1 from '../../assets/fake-house-1.jpg';
-import fakeHouse2 from '../../assets/fake-house-2.jpg';
-import fakeHouse3 from '../../assets/fake-house-3.jpg';
+// Import the default fallback image
+import defaultImage from '../../assets/default-image.png';
 
 const ListingResponse = ({ listingsWithResponses = [] }) => {
   const [userInput, setUserInput] = useState("");
@@ -47,7 +45,10 @@ const ListingResponse = ({ listingsWithResponses = [] }) => {
     setSelectedListing(null);
   };
 
-  const listingImages = [fakeHouse1, fakeHouse2, fakeHouse3]; // Array of images
+  const getImageUrl = (listingId) => {
+    const imageUrl = `src/assets/listings_images/${listingId}.png`;
+    return imageUrl;
+  };
 
   return (
     <div className="container mt-5 custom-mt-5">
@@ -59,9 +60,15 @@ const ListingResponse = ({ listingsWithResponses = [] }) => {
                 <div className="card card-equal-height">
                   <div className="row no-gutters">
                     <div className="col-md-4">
-                      <img src={listingImages[index % listingImages.length]} alt={`Listing ${index + 1}`} className="card-img" />
+                      {/* Dynamically load image based on MLS number */}
+                      <img
+                        src={getImageUrl(listing.id)}
+                        alt={`Listing ${index + 1}`}
+                        className="card-img"
+                        onError={(e) => e.target.src = defaultImage} // Fallback to default image if not found
+                      />
                       <div className="price-category">
-                        <h2><strong>MREA Index Price: </strong><span className="badge text-bg-warning">{listing.price_category}</span></h2>
+                        <h2><strong>WHM Price Index: </strong><span className="badge text-bg-warning">{listing.price_category}</span></h2>
                         <br /><hr />
                         <button type="button" className="btn btn-info view-more-detail-btn" onClick={() => handleViewMoreDetails(listing)}>View more details</button>
                         <button
@@ -79,7 +86,7 @@ const ListingResponse = ({ listingsWithResponses = [] }) => {
                         <p className="card-text"><strong>Address:</strong> {listing.address}</p>
                         <p className="card-text"><strong>Neighborhood:</strong> {listing.neighborhood}</p>
                         <p className="card-text"><strong>Price:</strong> {formatPrice(listing.price)}</p>
-                        <p className="card-text"><strong>Rooms:</strong> {listing.rooms}</p>
+                        <p className="card-text"><strong>Bedrooms:</strong> {listing.bedrooms}</p>
                         <p className="card-text"><strong>Bathrooms:</strong> {listing.bathrooms}</p>
                         <p className="card-text"><strong>Type:</strong> {listing.type}</p>
                         <p className="card-text"><strong>Realtor:</strong> {listing.realtor}</p>
@@ -210,20 +217,20 @@ const ListingResponse = ({ listingsWithResponses = [] }) => {
                         <p className="card-text"><strong>Address:</strong> {selectedListing.address}</p>
                         <p className="card-text"><strong>Neighborhood:</strong> {selectedListing.neighborhood}</p>
                         <p className="card-text"><strong>Price:</strong> {formatPrice(selectedListing.price)}</p>
-                        <p className="card-text"><strong>Rooms:</strong> {selectedListing.rooms}</p>
+                        <p className="card-text"><strong>Bedrooms:</strong> {selectedListing.rooms}</p>
                         <p className="card-text"><strong>Bathrooms:</strong> {selectedListing.bathrooms}</p>
                         <p className="card-text"><strong>Type:</strong> {selectedListing.type}</p>
                         <p className="card-text"><strong>Realtor:</strong> {selectedListing.realtor}</p>
                       </div>
                       <div className="col-md-4">
-                      <p className="card-text"><strong>Additional info 1:</strong> {}</p>
-                      <p className="card-text"><strong>Additional info 2:</strong> {}</p>
-                      <p className="card-text"><strong>Additional info 3:</strong> {}</p>
-                      <p className="card-text"><strong>Additional info 4:</strong> {}</p>
-                      <p className="card-text"><strong>Additional info 5:</strong> {}</p>
-                      <p className="card-text"><strong>Additional info 6:</strong> {}</p>
-                      <p className="card-text"><strong>Additional info 7:</strong> {}</p>
-                      <p className="card-text"><strong>Additional info 8:</strong> {}</p>
+                        <p className="card-text"><strong>Additional info 1:</strong> {}</p>
+                        <p className="card-text"><strong>Additional info 2:</strong> {}</p>
+                        <p className="card-text"><strong>Additional info 3:</strong> {}</p>
+                        <p className="card-text"><strong>Additional info 4:</strong> {}</p>
+                        <p className="card-text"><strong>Additional info 5:</strong> {}</p>
+                        <p className="card-text"><strong>Additional info 6:</strong> {}</p>
+                        <p className="card-text"><strong>Additional info 7:</strong> {}</p>
+                        <p className="card-text"><strong>Additional info 8:</strong> {}</p>
                       </div>
                       <div className="col-md-4">
                         <ListingResponseMap
@@ -233,37 +240,37 @@ const ListingResponse = ({ listingsWithResponses = [] }) => {
                           address={selectedListing.address}
                           neighborhood={selectedListing.neighborhood}
                           price={formatPrice(selectedListing.price)}
-                        /> 
+                        />
                         button with point of interest here!
                       </div>
                     </div>
                     <div className="row">
-                    <div className="col-md-4">
-                    <p className="card-text"><strong>[Icon ] Features </strong> {}</p>
-                    <p className="card-text">Air Conditioning-Central{}</p>
-                    <p className="card-text">Bar wet{}</p>
-                    <p className="card-text">Closet Organizers{}</p>
-                    <p className="card-text">Cook Top{}</p>
-                    <p className="card-text">Deck{}</p>
-                    <p className="card-text">High-Efficiency Furnace{}</p>
-                    <p className="card-text">Hot Tub{}</p>
-                    <p className="card-text">Laundry - Second Floor{}</p>
-                    <p className="card-text">Laundry - Main Floor{}</p>
-                    <p className="card-text">Patio{}</p>
-                    <p className="card-text">Pool-Indoor{}</p>
-                    </div>
-                    <div className="col-md-4">
-                    <p className="card-text"><strong>[Icon ] Blinds </strong> {}</p>
-                    <p className="card-text"><strong>[Icon ] Bar Fridge </strong> {}</p>
-                    <p className="card-text">Dryers - Two{}</p>
-                    <p className="card-text">Dishwasher{}</p>
-                    <p className="card-text">Garage door opener{}</p>
-                    <p className="card-text">Garage door opener remote(s){}</p>
-                    <p className="card-text">Microwave{}</p>
-                    <p className="card-text">Stove{}</p>
-                    <p className="card-text">Window Coverings{}</p>
-                    <p className="card-text">Washers - Two{}</p>
-                    </div>
+                      <div className="col-md-4">
+                        <p className="card-text"><strong>[Icon ] Features </strong> {}</p>
+                        <p className="card-text">Air Conditioning-Central{}</p>
+                        <p className="card-text">Bar wet{}</p>
+                        <p className="card-text">Closet Organizers{}</p>
+                        <p className="card-text">Cook Top{}</p>
+                        <p className="card-text">Deck{}</p>
+                        <p className="card-text">High-Efficiency Furnace{}</p>
+                        <p className="card-text">Hot Tub{}</p>
+                        <p className="card-text">Laundry - Second Floor{}</p>
+                        <p className="card-text">Laundry - Main Floor{}</p>
+                        <p className="card-text">Patio{}</p>
+                        <p className="card-text">Pool-Indoor{}</p>
+                      </div>
+                      <div className="col-md-4">
+                        <p className="card-text"><strong>[Icon ] Blinds </strong> {}</p>
+                        <p className="card-text"><strong>[Icon ] Bar Fridge </strong> {}</p>
+                        <p className="card-text">Dryers - Two{}</p>
+                        <p className="card-text">Dishwasher{}</p>
+                        <p className="card-text">Garage door opener{}</p>
+                        <p className="card-text">Garage door opener remote(s){}</p>
+                        <p className="card-text">Microwave{}</p>
+                        <p className="card-text">Stove{}</p>
+                        <p className="card-text">Window Coverings{}</p>
+                        <p className="card-text">Washers - Two{}</p>
+                      </div>
                     </div>
                   </div>
                   <div className="tab-pane fade" id="pills-census" role="tabpanel" aria-labelledby="pills-census-tab">
