@@ -119,42 +119,46 @@ If the .env already exists, just add your OPENAI_API_KEY to it.
 
 ### 4. Database Setup
 
-1. Download MSSQL Developer Edition: 
+1. Download and Install PostgreSQL: 
 
-    - Download and install <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">Microsoft SQL Server Developer Edition</a>
+    - https://www.postgresql.org/download/linux/ubuntu/
 
-2. Install a SQL Management Tool:
+2. Install a pgAdmin (optional):
 
-    - Download and install <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">SQL Server Management Studio (SSMS)</a> or
-    - Download and install <a href="https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio" target="_blank" rel="noopener noreferrer">Azure Data Studio</a> or
-    - Use <a href="https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql" target="_blank" rel="noopener noreferrer">Visual Studio Code with the MSSQL Extension</a>
+    - https://www.pgadmin.org/download/pgadmin-4-apt/
  
- 3. Create a Database and User:
+ 3. Connect to the server:
+    -  psql -h localhost -d postgres 
+ 
+ 4. Create the User:
+    - create user dbadmin with password '1234';
+       
+ 5. Create the database:   
+    - create database homelistings;
+ 
+ 6. All privilegies to a user on the database:
+    - grant all on database homelistings to dbadmin;
 
-    - Create a new database named HousingListing.
-    - Create a user with sufficient permissions to create tables and execute SQL queries.
-
-4. Download and Execute the SQL Script:
-
-    - Download the SQL script to create and populate the HousingListing database from the repository, inside the DB directory.
-    - Execute the script using your chosen SQL management tool.
-
-5. Configure the Connection String:
-
-    - Add your database connection details to the .env file in the server directory
-    
-            DB_CONNECTION_STRING=mssql+pyodbc://<username>:<password>@<server_address>/<database_name>?driver=ODBC+Driver+17+for+SQL+Server
-    
-    - Replace the folowing values with your database connection details: 
-        
-        1. username
-        2. password
-        3. server_address or server_name
-        4. database_name 
-
-    - Example:
-                
-            DB_CONNECTION_STRING=mssql+pyodbc://admin:your_password@171.21.73.184:1433/HousingListing?driver=ODBC+Driver+17+for+SQL+Server
+ 7. Connect to the instance using the user previously created:
+    - psql -h localhost -d homelistings -U dbadmin;
+ 
+ 7. Create the listings table:
+    - Run the datasets_import.py and it will create and isert the data.
+    - If you receive any error, you can createthe table manually as following:
+      
+    CREATE TABLE IF NOT EXISTS homelistings (
+    id BIGINT PRIMARY KEY NOT NULL,
+    address VARCHAR(255) NOT NULL,
+    neighborhood VARCHAR(100),
+    price INTEGER NOT NULL,
+    bedrooms INTEGER,
+    bathrooms NUMERIC(2, 1),
+    square_footage INTEGER,
+    type VARCHAR(100),
+    realtor VARCHAR(100),
+    latitude NUMERIC(9, 6),
+    longitude NUMERIC(9, 6)
+);  
 
 ### 6.  Run the Flask Backend Server
 Navigate to the server directory and start the Flask server.
