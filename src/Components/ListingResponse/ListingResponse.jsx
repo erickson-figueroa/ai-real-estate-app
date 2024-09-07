@@ -53,6 +53,9 @@ const ListingResponse = ({ listingsWithResponses = [] }) => {
   return (
     <div className="container mt-5 custom-mt-5">
       <div className="row">
+      <div className="fs-2 text d-flex justify-content-center fw-semibold mt-4 mb-4">
+              Recommended homes based on your search
+            </div>
         {listingsWithResponses.map(({ listing, response }, index) => (
           <div key={listing.id} className="col-md-12 mb-4">
             <div className="row no-gutters">
