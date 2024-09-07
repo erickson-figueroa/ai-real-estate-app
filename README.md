@@ -143,8 +143,8 @@ If the .env already exists, just add your OPENAI_API_KEY to it.
     - psql -h localhost -d homelistings -U dbadmin;
  
  7. Create the listings table:
-    - Run the datasets_import.py and it will create and isert the data.
-    - If you receive any error, you can createthe table manually as following:
+    - Run the <b>datasets_import.py</b> and it will create the table and insert the data.
+    - If you receive any errors, you can create the table manually as follows:
       
     CREATE TABLE IF NOT EXISTS homelistings (
     id BIGINT PRIMARY KEY NOT NULL,
