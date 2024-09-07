@@ -83,7 +83,7 @@ The main objective of this project is to enhance the real estate search experien
     - Poetry for dependency management
 
 - Database
-    - Local housing listing database
+    - Local housing listing database using PostgreSQL
 
 - Others:
     - Open Street Map with leafletjs javascript library to show the location of the properties
