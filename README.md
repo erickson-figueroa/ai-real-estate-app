@@ -143,22 +143,22 @@ If the .env already exists, just add your OPENAI_API_KEY to it.
     - psql -h localhost -d homelistings -U dbadmin;
  
  7. Create the listings table:
-    - Run the <b>datasets_import.py</b> and it will create the table and insert the data.
+    - Navigate to the server folder: cd server, then run the <b>datasets_import.py</b>. e.g. python datasets_import.py, and it will create the table and insert the data.
     - If you receive any errors, you can create the table manually as follows:
       
-    CREATE TABLE IF NOT EXISTS homelistings (
-    id BIGINT PRIMARY KEY NOT NULL,
-    address VARCHAR(255) NOT NULL,
-    neighborhood VARCHAR(100),
-    price INTEGER NOT NULL,
-    bedrooms INTEGER,
-    bathrooms NUMERIC(2, 1),
-    square_footage INTEGER,
-    type VARCHAR(100),
-    realtor VARCHAR(100),
-    latitude NUMERIC(9, 6),
-    longitude NUMERIC(9, 6)
-);  
+            CREATE TABLE IF NOT EXISTS homelistings (
+            id BIGINT PRIMARY KEY NOT NULL,
+            address VARCHAR(255) NOT NULL,
+            neighborhood VARCHAR(100),
+            price INTEGER NOT NULL,
+            bedrooms INTEGER,
+            bathrooms NUMERIC(2, 1),
+            square_footage INTEGER,
+            type VARCHAR(100),
+            realtor VARCHAR(100),
+            latitude NUMERIC(9, 6),
+            longitude NUMERIC(9, 6)
+            );  
 
 ### 6.  Run the Flask Backend Server
 Navigate to the server directory and start the Flask server.
