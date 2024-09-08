@@ -1,4 +1,4 @@
-# AI Real Estate Application (In process !)
+# AI Real Estate Application
 
 The AI Real Estate Application leverages state-of-the-art artificial intelligence to streamline the home-finding process. By providing personalized and accurate recommendations, the application helps users find their ideal home based on specific needs and preferences.
 
