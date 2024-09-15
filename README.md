@@ -1,6 +1,6 @@
 # AI Real Estate Application
 
-The AI Real Estate Application leverages state-of-the-art artificial intelligence to streamline the home-finding process. By providing personalized and accurate recommendations, the application helps users find their ideal home based on specific needs and preferences.
+The AI Real Estate Application Leverages artificial intelligence to streamline the housing search process. By providing personalized and accurate recommendations, the application helps users find their ideal home based on specific needs and preferences.
 
 This project serves as an AI-powered real estate search assistant for Winnipeg, Canada. Users can input natural language queries detailing their housing requirements, such as location, price range, number of bedrooms and bathrooms, and specific amenities. The AI processes these queries, matches them against a database of listings, and returns the top recommendations that best fit the user's criteria.
 
