@@ -1,4 +1,5 @@
 # AI Real Estate Application
+#### Predictive Analytics diploma, final project.
 
 The AI Real Estate Application Leverages artificial intelligence to streamline the housing search process. By providing personalized and accurate recommendations, the application helps users find their ideal home based on specific needs and preferences.
 
