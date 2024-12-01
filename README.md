@@ -1,5 +1,5 @@
 # AI Real Estate Application
-<i>(Predictive Analytics diploma, final project. The University of Winnipeg)</i>
+<i><b>(Predictive Analytics diploma, final project. The University of Winnipeg)</i></b>
 
 The AI Real Estate Application Leverages artificial intelligence to streamline the housing search process. By providing personalized and accurate recommendations, the application helps users find their ideal home based on specific needs and preferences.
 
